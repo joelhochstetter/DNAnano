@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,StarrConf.so -o ../../../contrib/rovigatti/StarrConf.so CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o 

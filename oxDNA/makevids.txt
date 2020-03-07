@@ -1,0 +1,4 @@
+../../../cogli1-code/cogli1 --always-centre -I -v -m -t prova.top last_conf.dat
+../../../cogli1-code/cogli1 -o -l trajectory3.dat_0_time_10000.cpy -t prova.top trajectory4.dat
+for d in $(ls -v1 *.pov); do ../../../povray-3.6/povray -D +H600 +W860 $d; done
+ffmpeg -framerate 10 -pattern_type glob -i "trajectory4*.png" ox_example.mp4

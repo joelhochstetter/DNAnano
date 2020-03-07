@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,FSConf.so -o ../../../contrib/rovigatti/FSConf.so CMakeFiles/FSConf.dir/src/Observables/FSConf.cpp.o 

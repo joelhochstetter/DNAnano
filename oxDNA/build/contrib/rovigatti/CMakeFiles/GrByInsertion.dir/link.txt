@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,GrByInsertion.so -o ../../../contrib/rovigatti/GrByInsertion.so CMakeFiles/GrByInsertion.dir/src/Observables/GrByInsertion.cpp.o 

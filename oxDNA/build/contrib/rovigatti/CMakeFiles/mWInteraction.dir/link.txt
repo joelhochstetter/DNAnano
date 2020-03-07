@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,mWInteraction.so -o ../../../contrib/rovigatti/mWInteraction.so CMakeFiles/mWInteraction.dir/src/Interactions/mWInteraction.cpp.o 

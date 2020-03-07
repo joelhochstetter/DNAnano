@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,SPBAnalysis.so -o ../../../contrib/rovigatti/SPBAnalysis.so CMakeFiles/SPBAnalysis.dir/src/Observables/SPBAnalysis.cpp.o 

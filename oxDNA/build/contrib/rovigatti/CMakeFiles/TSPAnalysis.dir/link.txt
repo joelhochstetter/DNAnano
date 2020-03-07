@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,TSPAnalysis.so -o ../../../contrib/rovigatti/TSPAnalysis.so CMakeFiles/TSPAnalysis.dir/src/Observables/TSPAnalysis.cpp.o 

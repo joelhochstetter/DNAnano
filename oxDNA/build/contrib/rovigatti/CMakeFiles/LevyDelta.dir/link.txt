@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,LevyDelta.so -o ../../../contrib/rovigatti/LevyDelta.so CMakeFiles/LevyDelta.dir/src/Observables/LevyDelta.cpp.o 

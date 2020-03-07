@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,CPAnalysis.so -o ../../../contrib/rovigatti/CPAnalysis.so CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o 

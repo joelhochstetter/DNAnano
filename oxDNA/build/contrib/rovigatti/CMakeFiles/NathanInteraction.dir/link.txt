@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,NathanInteraction.so -o ../../../contrib/rovigatti/NathanInteraction.so CMakeFiles/NathanInteraction.dir/src/Interactions/NathanInteraction.cpp.o 

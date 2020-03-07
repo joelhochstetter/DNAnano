@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,MGAnalysis.so -o ../../../contrib/rovigatti/MGAnalysis.so CMakeFiles/MGAnalysis.dir/src/Observables/MGAnalysis.cpp.o 

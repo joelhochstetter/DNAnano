@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,YasutakaAnalysis.so -o ../../../contrib/rovigatti/YasutakaAnalysis.so CMakeFiles/YasutakaAnalysis.dir/src/Observables/YasutakaAnalysis.cpp.o 

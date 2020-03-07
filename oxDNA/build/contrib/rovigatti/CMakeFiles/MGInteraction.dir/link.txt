@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,MGInteraction.so -o ../../../contrib/rovigatti/MGInteraction.so CMakeFiles/MGInteraction.dir/src/Interactions/MGInteraction.cpp.o 

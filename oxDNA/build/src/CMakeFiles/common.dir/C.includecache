@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/suphys/joelh/Documents/biomod/oxDNA/src/Utilities/time_scales/time_scales.c
+time_scales.h
+/suphys/joelh/Documents/biomod/oxDNA/src/Utilities/time_scales/time_scales.h
+
+/suphys/joelh/Documents/biomod/oxDNA/src/Utilities/time_scales/time_scales.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

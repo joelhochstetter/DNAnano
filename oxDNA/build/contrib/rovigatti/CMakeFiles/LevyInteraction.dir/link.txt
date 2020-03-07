@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,LevyInteraction.so -o ../../../contrib/rovigatti/LevyInteraction.so CMakeFiles/LevyInteraction.dir/src/Interactions/LevyInteraction.cpp.o 

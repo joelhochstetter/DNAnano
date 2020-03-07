@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,Widom.so -o ../../../contrib/rovigatti/Widom.so CMakeFiles/Widom.dir/src/Observables/Widom.cpp.o 

@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,ManfredoInteraction.so -o ../../../contrib/rovigatti/ManfredoInteraction.so CMakeFiles/ManfredoInteraction.dir/src/Interactions/ManfredoInteraction.cpp.o 

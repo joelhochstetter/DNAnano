@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,FSInteraction.so -o ../../../contrib/rovigatti/FSInteraction.so CMakeFiles/FSInteraction.dir/src/Interactions/FSInteraction.cpp.o 

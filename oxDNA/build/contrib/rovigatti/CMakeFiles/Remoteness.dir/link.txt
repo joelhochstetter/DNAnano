@@ -1,0 +1,1 @@
+/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,Remoteness.so -o ../../../contrib/rovigatti/Remoteness.so CMakeFiles/Remoteness.dir/src/Observables/Remoteness.cpp.o 
