@@ -23,6 +23,7 @@ energy_file = energy.dat
 print_energy_every = 20
 no_stdout_energy = false
 time_scale = linear
+log_file = log_relax_1.dat
 
 restart_step_counter = 1
 refresh_vel = 1

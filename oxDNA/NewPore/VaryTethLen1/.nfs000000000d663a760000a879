@@ -19,7 +19,6 @@ foreach l (40 50 60)
     echo 'Running sims'
     oxDNA ../inputMD
     mv log.dat log_MD.dat
-    python $oxPath/MyScripts/savepos.py trajectoryMD.dat outMD.dat 1 1 1
     cd ..
 end
     
