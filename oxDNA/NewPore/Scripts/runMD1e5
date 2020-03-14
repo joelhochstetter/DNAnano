@@ -32,7 +32,7 @@ box_type = orthogonal
 ##############################
 topology = prova.top
 conf_file = start.conf 
-trajectory_file = trajectoryMD.dat
+trajectory_file = trajectory.dat
 refresh_vel = 1
 log_file = log.dat
 no_stdout_energy = 0

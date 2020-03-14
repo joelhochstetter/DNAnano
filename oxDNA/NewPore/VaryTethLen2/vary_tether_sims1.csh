@@ -37,11 +37,11 @@ foreach l ( $x )
     #json to oxDNA
     #python2.7 $oxPath/UTILS/cadnano_interface.py *.json he 100
     echo 'Initialising pore'
-    source $oxPath/NewPore/Scripts/init_pore.csh
+    #source $oxPath/NewPore/Scripts/init_pore.csh
     echo 'Running sims'
-    #oxDNA ../inputMD
+    oxDNA ../inputMD
     mv log.dat log_MD.dat
-    python $oxPath/MyScripts/savepos.py trajectoryMD.dat outMD.dat 1 1 1
+    python $oxPath/MyScripts/savepos.py trajectoryMD.dat outMD$l.txt 1 1 1
     cd ..
 end
     
