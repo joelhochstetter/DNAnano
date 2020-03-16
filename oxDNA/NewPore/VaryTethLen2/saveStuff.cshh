@@ -1,0 +1,3 @@
+python ../../../MyScripts/savepos.py trajectoryMD.dat outMDp.txt 1 0 0 
+python ../../../MyScripts/savepos.py trajectoryMD.dat outMDv.txt 0 1 0 
+python ../../../MyScripts/savepos.py trajectoryMD.dat outMDr.txt 0 0 1 

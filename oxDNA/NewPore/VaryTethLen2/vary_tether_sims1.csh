@@ -42,6 +42,11 @@ foreach l ( $x )
     oxDNA ../inputMD
     mv log.dat log_MD.dat
     python $oxPath/MyScripts/savepos.py trajectoryMD.dat outMD$l.txt 1 1 1
+    '''
+    python ../../../MyScripts/savepos.py trajectoryMD.dat outMDp.txt 1 0 0 
+    python ../../../MyScripts/savepos.py trajectoryMD.dat outMDv.txt 0 1 0 
+    python ../../../MyScripts/savepos.py trajectoryMD.dat outMDr.txt 0 0 1 
+    '''        
     cd ..
 end
     
