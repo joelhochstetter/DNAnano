@@ -54,19 +54,19 @@ with open(inp, 'r') as r:
          if (lnum - 4) % (nn + 3) in pts:
             start_from = 0
             if pos:
-                data[j][pts.index((lnum - 4) % (nn + 3))*3]  =cells[0]
-                data[j][pts.index((lnum - 4) % (nn + 3))*3+1]=cells[1]
-                data[j][pts.index((lnum - 4) % (nn + 3))*3+2]=cells[2]
+                data[j][pts.index((lnum - 4) % (nn + 3))*3]  =float(cells[0])
+                data[j][pts.index((lnum - 4) % (nn + 3))*3+1]=float(cells[1])
+                data[j][pts.index((lnum - 4) % (nn + 3))*3+2]=float(cells[2])
                 start_from += 3
             if vel:
-                data[j][pts.index((lnum - 4) % (nn + 3))*3   + start_from] =cells[9]
-                data[j][pts.index((lnum - 4) % (nn + 3))*3+1 + start_from] =cells[10]
-                data[j][pts.index((lnum - 4) % (nn + 3))*3+2 + start_from] =cells[11]
+                data[j][pts.index((lnum - 4) % (nn + 3))*3   + start_from] =float(cells[9])
+                data[j][pts.index((lnum - 4) % (nn + 3))*3+1 + start_from] =float(cells[10])
+                data[j][pts.index((lnum - 4) % (nn + 3))*3+2 + start_from] =float(cells[11])
                 start_from += 3      
             if rot:
-                data[j][pts.index((lnum - 4) % (nn + 3))*3   + start_from] =cells[12]
-                data[j][pts.index((lnum - 4) % (nn + 3))*3+1 + start_from] =cells[13]
-                data[j][pts.index((lnum - 4) % (nn + 3))*3+2 + start_from] =cells[14]             
+                data[j][pts.index((lnum - 4) % (nn + 3))*3   + start_from] =float(cells[12])
+                data[j][pts.index((lnum - 4) % (nn + 3))*3+1 + start_from] =float(cells[13])
+                data[j][pts.index((lnum - 4) % (nn + 3))*3+2 + start_from] =float(cells[14])             
       lnum+=1
       if j == nt: 
          break
