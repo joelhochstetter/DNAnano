@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/VoidPercolation.dir/src/Observables/VoidPercolation.cpp.o"
+  "../../../contrib/rovigatti/VoidPercolation.dylib"
   "../../../contrib/rovigatti/VoidPercolation.pdb"
-  "../../../contrib/rovigatti/VoidPercolation.so"
+  "CMakeFiles/VoidPercolation.dir/src/Observables/VoidPercolation.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

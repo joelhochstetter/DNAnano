@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/StarrInteraction.dir/src/Interactions/StarrInteraction.cpp.o"
+  "../../../contrib/rovigatti/StarrInteraction.dylib"
   "../../../contrib/rovigatti/StarrInteraction.pdb"
-  "../../../contrib/rovigatti/StarrInteraction.so"
+  "CMakeFiles/StarrInteraction.dir/src/Interactions/StarrInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

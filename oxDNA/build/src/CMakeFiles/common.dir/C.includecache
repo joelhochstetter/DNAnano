@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/suphys/joelh/Documents/biomod/oxDNA/src/Utilities/time_scales/time_scales.c
+/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.c
 time_scales.h
-/suphys/joelh/Documents/biomod/oxDNA/src/Utilities/time_scales/time_scales.h
+/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
 
-/suphys/joelh/Documents/biomod/oxDNA/src/Utilities/time_scales/time_scales.h
+/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
 stdio.h
 -
 stdlib.h

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NathanInteraction.dir/src/Interactions/NathanInteraction.cpp.o"
+  "../../../contrib/rovigatti/NathanInteraction.dylib"
   "../../../contrib/rovigatti/NathanInteraction.pdb"
-  "../../../contrib/rovigatti/NathanInteraction.so"
+  "CMakeFiles/NathanInteraction.dir/src/Interactions/NathanInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

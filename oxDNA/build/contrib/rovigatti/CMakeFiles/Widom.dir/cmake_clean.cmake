@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Widom.dir/src/Observables/Widom.cpp.o"
+  "../../../contrib/rovigatti/Widom.dylib"
   "../../../contrib/rovigatti/Widom.pdb"
-  "../../../contrib/rovigatti/Widom.so"
+  "CMakeFiles/Widom.dir/src/Observables/Widom.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

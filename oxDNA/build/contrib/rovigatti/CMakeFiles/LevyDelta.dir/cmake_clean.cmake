@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LevyDelta.dir/src/Observables/LevyDelta.cpp.o"
+  "../../../contrib/rovigatti/LevyDelta.dylib"
   "../../../contrib/rovigatti/LevyDelta.pdb"
-  "../../../contrib/rovigatti/LevyDelta.so"
+  "CMakeFiles/LevyDelta.dir/src/Observables/LevyDelta.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/mWInteraction.dir/src/Interactions/mWInteraction.cpp.o"
+  "../../../contrib/rovigatti/mWInteraction.dylib"
   "../../../contrib/rovigatti/mWInteraction.pdb"
-  "../../../contrib/rovigatti/mWInteraction.so"
+  "CMakeFiles/mWInteraction.dir/src/Interactions/mWInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

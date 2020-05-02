@@ -4,12 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/suphys/joelh/Documents/biomod/oxDNA/contrib/randisi/src/Interactions/DNA2ModInteraction.cpp" "/suphys/joelh/Documents/biomod/oxDNA/build/contrib/randisi/CMakeFiles/DNA2ModInteraction.dir/src/Interactions/DNA2ModInteraction.cpp.o"
+  "/Users/Jhoch/Documents/DNAnano/oxDNA/contrib/randisi/src/Interactions/DNA2ModInteraction.cpp" "/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/randisi/CMakeFiles/DNA2ModInteraction.dir/src/Interactions/DNA2ModInteraction.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
+  "DNA2ModInteraction_EXPORTS"
   "NOCUDA"
   )
 

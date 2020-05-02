@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/suphys/joelh/Documents/biomod/oxDNA/src/oxDNA.cpp" "/suphys/joelh/Documents/biomod/oxDNA/build/src/CMakeFiles/oxDNA.dir/oxDNA.cpp.o"
+  "/Users/Jhoch/Documents/DNAnano/oxDNA/src/oxDNA.cpp" "/Users/Jhoch/Documents/DNAnano/oxDNA/build/src/CMakeFiles/oxDNA.dir/oxDNA.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
@@ -19,7 +19,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/suphys/joelh/Documents/biomod/oxDNA/build/src/CMakeFiles/common.dir/DependInfo.cmake"
+  "/Users/Jhoch/Documents/DNAnano/oxDNA/build/src/CMakeFiles/common.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

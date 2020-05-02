@@ -1,1 +1,1 @@
-/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,StarrConf.so -o ../../../contrib/rovigatti/StarrConf.so CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o 
+/Library/Developer/CommandLineTools/usr/bin/c++  -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o ../../../contrib/rovigatti/StarrConf.dylib -install_name /Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/StarrConf.dylib CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/RadialDensityProfile.dir/src/Observables/RadialDensityProfile.cpp.o"
+  "../../../contrib/rovigatti/RadialDensityProfile.dylib"
   "../../../contrib/rovigatti/RadialDensityProfile.pdb"
-  "../../../contrib/rovigatti/RadialDensityProfile.so"
+  "CMakeFiles/RadialDensityProfile.dir/src/Observables/RadialDensityProfile.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

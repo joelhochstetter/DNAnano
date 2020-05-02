@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Gyradius.dir/src/Observables/Gyradius.cpp.o"
+  "../../../contrib/rovigatti/Gyradius.dylib"
   "../../../contrib/rovigatti/Gyradius.pdb"
-  "../../../contrib/rovigatti/Gyradius.so"
+  "CMakeFiles/Gyradius.dir/src/Observables/Gyradius.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

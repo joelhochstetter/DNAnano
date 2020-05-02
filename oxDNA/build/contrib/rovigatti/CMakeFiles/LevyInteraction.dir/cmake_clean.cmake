@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LevyInteraction.dir/src/Interactions/LevyInteraction.cpp.o"
+  "../../../contrib/rovigatti/LevyInteraction.dylib"
   "../../../contrib/rovigatti/LevyInteraction.pdb"
-  "../../../contrib/rovigatti/LevyInteraction.so"
+  "CMakeFiles/LevyInteraction.dir/src/Interactions/LevyInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

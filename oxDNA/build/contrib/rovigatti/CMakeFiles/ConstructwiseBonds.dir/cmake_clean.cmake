@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ConstructwiseBonds.dir/src/Observables/ConstructwiseBonds.cpp.o"
+  "../../../contrib/rovigatti/ConstructwiseBonds.dylib"
   "../../../contrib/rovigatti/ConstructwiseBonds.pdb"
-  "../../../contrib/rovigatti/ConstructwiseBonds.so"
+  "CMakeFiles/ConstructwiseBonds.dir/src/Observables/ConstructwiseBonds.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

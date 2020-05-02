@@ -1,1 +1,1 @@
-/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,MGInteraction.so -o ../../../contrib/rovigatti/MGInteraction.so CMakeFiles/MGInteraction.dir/src/Interactions/MGInteraction.cpp.o 
+/Library/Developer/CommandLineTools/usr/bin/c++  -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o ../../../contrib/rovigatti/MGInteraction.dylib -install_name /Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/MGInteraction.dylib CMakeFiles/MGInteraction.dir/src/Interactions/MGInteraction.cpp.o 

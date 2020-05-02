@@ -4,13 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/suphys/joelh/Documents/biomod/oxDNA/contrib/rovigatti/src/Interactions/mWInteraction.cpp" "/suphys/joelh/Documents/biomod/oxDNA/build/contrib/rovigatti/CMakeFiles/mWInteraction.dir/src/Interactions/mWInteraction.cpp.o"
+  "/Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/src/Interactions/mWInteraction.cpp" "/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/rovigatti/CMakeFiles/mWInteraction.dir/src/Interactions/mWInteraction.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
   "NOCUDA"
+  "mWInteraction_EXPORTS"
   )
 
 # The include file search paths:

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GenericGrByInsertion.dir/src/Observables/GenericGrByInsertion.cpp.o"
+  "../../../contrib/rovigatti/GenericGrByInsertion.dylib"
   "../../../contrib/rovigatti/GenericGrByInsertion.pdb"
-  "../../../contrib/rovigatti/GenericGrByInsertion.so"
+  "CMakeFiles/GenericGrByInsertion.dir/src/Observables/GenericGrByInsertion.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

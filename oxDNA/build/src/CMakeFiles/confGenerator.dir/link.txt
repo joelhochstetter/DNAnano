@@ -1,1 +1,1 @@
-/bin/c++   -O3 -DNDEBUG   CMakeFiles/confGenerator.dir/confGenerator.cpp.o CMakeFiles/confGenerator.dir/Managers/GeneratorManager.cpp.o  -o ../bin/confGenerator -rdynamic libcommon.a -ldl 
+/Library/Developer/CommandLineTools/usr/bin/c++   -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/confGenerator.dir/confGenerator.cpp.o CMakeFiles/confGenerator.dir/Managers/GeneratorManager.cpp.o  -o ../bin/confGenerator libcommon.a 

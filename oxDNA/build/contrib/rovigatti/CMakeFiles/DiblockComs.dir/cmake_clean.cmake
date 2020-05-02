@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DiblockComs.dir/src/Observables/DiblockComs.cpp.o"
+  "../../../contrib/rovigatti/DiblockComs.dylib"
   "../../../contrib/rovigatti/DiblockComs.pdb"
-  "../../../contrib/rovigatti/DiblockComs.so"
+  "CMakeFiles/DiblockComs.dir/src/Observables/DiblockComs.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

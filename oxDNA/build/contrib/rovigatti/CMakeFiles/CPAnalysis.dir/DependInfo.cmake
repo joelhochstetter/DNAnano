@@ -4,12 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/suphys/joelh/Documents/biomod/oxDNA/contrib/rovigatti/src/Observables/CPAnalysis.cpp" "/suphys/joelh/Documents/biomod/oxDNA/build/contrib/rovigatti/CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o"
+  "/Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/src/Observables/CPAnalysis.cpp" "/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/rovigatti/CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
+  "CPAnalysis_EXPORTS"
   "NOCUDA"
   )
 

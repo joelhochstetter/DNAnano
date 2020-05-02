@@ -1,4 +1,4 @@
-# Install script for directory: /suphys/joelh/Documents/biomod/oxDNA/contrib
+# Install script for directory: /Users/Jhoch/Documents/DNAnano/oxDNA/contrib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -27,16 +27,16 @@ if(NOT CMAKE_INSTALL_COMPONENT)
   endif()
 endif()
 
-# Install shared libraries without execute permission?
-if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "0")
+# Is this installation the result of a crosscompile?
+if(NOT DEFINED CMAKE_CROSSCOMPILING)
+  set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/suphys/joelh/Documents/biomod/oxDNA/build/contrib/rovigatti/cmake_install.cmake")
-  include("/suphys/joelh/Documents/biomod/oxDNA/build/contrib/romano/cmake_install.cmake")
-  include("/suphys/joelh/Documents/biomod/oxDNA/build/contrib/randisi/cmake_install.cmake")
+  include("/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/rovigatti/cmake_install.cmake")
+  include("/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/romano/cmake_install.cmake")
+  include("/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/randisi/cmake_install.cmake")
 
 endif()
 

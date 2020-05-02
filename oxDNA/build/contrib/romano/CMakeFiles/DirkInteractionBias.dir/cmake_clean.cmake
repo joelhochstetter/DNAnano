@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DirkInteractionBias.dir/src/Interactions/DirkInteractionBias.cpp.o"
+  "../../../contrib/romano/DirkInteractionBias.dylib"
   "../../../contrib/romano/DirkInteractionBias.pdb"
-  "../../../contrib/romano/DirkInteractionBias.so"
+  "CMakeFiles/DirkInteractionBias.dir/src/Interactions/DirkInteractionBias.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
