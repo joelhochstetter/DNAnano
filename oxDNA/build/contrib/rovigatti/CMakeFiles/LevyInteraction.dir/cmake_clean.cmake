@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/LevyInteraction.dylib"
   "../../../contrib/rovigatti/LevyInteraction.pdb"
+  "../../../contrib/rovigatti/LevyInteraction.so"
   "CMakeFiles/LevyInteraction.dir/src/Interactions/LevyInteraction.cpp.o"
 )
 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/DiblockComs.dylib"
   "../../../contrib/rovigatti/DiblockComs.pdb"
+  "../../../contrib/rovigatti/DiblockComs.so"
   "CMakeFiles/DiblockComs.dir/src/Observables/DiblockComs.cpp.o"
 )
 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/PatchyToMgl.dylib"
   "../../../contrib/rovigatti/PatchyToMgl.pdb"
+  "../../../contrib/rovigatti/PatchyToMgl.so"
   "CMakeFiles/PatchyToMgl.dir/src/Observables/PatchyToMgl.cpp.o"
 )
 

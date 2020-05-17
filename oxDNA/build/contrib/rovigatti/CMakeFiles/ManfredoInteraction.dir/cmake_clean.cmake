@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/ManfredoInteraction.dylib"
   "../../../contrib/rovigatti/ManfredoInteraction.pdb"
+  "../../../contrib/rovigatti/ManfredoInteraction.so"
   "CMakeFiles/ManfredoInteraction.dir/src/Interactions/ManfredoInteraction.cpp.o"
 )
 

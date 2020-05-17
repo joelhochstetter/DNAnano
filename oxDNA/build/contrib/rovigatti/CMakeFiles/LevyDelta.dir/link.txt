@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o ../../../contrib/rovigatti/LevyDelta.dylib -install_name /Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/LevyDelta.dylib CMakeFiles/LevyDelta.dir/src/Observables/LevyDelta.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,LevyDelta.so -o ../../../contrib/rovigatti/LevyDelta.so CMakeFiles/LevyDelta.dir/src/Observables/LevyDelta.cpp.o 

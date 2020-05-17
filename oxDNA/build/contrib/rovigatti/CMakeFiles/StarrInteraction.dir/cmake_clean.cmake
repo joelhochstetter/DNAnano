@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/StarrInteraction.dylib"
   "../../../contrib/rovigatti/StarrInteraction.pdb"
+  "../../../contrib/rovigatti/StarrInteraction.so"
   "CMakeFiles/StarrInteraction.dir/src/Interactions/StarrInteraction.cpp.o"
 )
 

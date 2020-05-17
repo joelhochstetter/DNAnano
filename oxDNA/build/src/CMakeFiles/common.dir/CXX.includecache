@@ -6,271 +6,271 @@
 
 #IncludeRegexTransform: 
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.cpp
 BackendFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.h
 MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
 FFS_MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
 MC_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
 MC_CPUBackend2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.h
 FFS_MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
 VMMC_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.h
 MinBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MinBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MinBackend.h
 FIREBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.h
 ../CUDA/Backends/MD_CUDABackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDABackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDABackend.h
 ../CUDA/Backends/MD_CUDAMixedBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDAMixedBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDAMixedBackend.h
 ../CUDA/Backends/FFS_MD_CUDAMixedBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/FFS_MD_CUDAMixedBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/FFS_MD_CUDAMixedBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.h
 SimBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.cpp
 FFS_MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
 sstream
 -
 cctype
 -
 Thermostats/BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 ../Interactions/DNA2Interaction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 ../Interactions/RNAInteraction2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
 ../Managers/SimManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
 MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 vector
 -
 algorithm
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.cpp
 FIREBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.h
 ../Observables/ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 ./Thermostats/ThermostatFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FIREBackend.h
 MDBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCBackend.cpp
 MCBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
 ../Observables/ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
 SimBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 ../../Utilities/Logger.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 ../../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../../Observables/BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.cpp
 MCRot.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.cpp
 MCTras.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.cpp
 MoveFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
 MCTras.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCTras.h
 MCRot.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MCRot.h
 VolumeMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
 VMMC.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.h
 ShapeMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.h
 RotateSite.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.cpp
 RotateSite.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.h
 ../../Particles/JordanParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/RotateSite.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.cpp
 ShapeMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/ShapeMove.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.cpp
 VMMC.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.h
 ../../Lists/Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VMMC.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.cpp
 VolumeMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
 BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.cpp
 MC_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Observables/ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 ../Managers/SimManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
 MCBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.cpp
 MC_CPUBackend2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend2.h
 MCBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCBackend.h
 MCMoves/BaseMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/BaseMove.h
 MCMoves/MoveFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.cpp
 sstream
 -
 MDBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
 ../Observables/ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
 SimBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.cpp
 sstream
 -
 MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
 ./Thermostats/ThermostatFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
 MCMoves/MoveFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/MoveFactory.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MD_CPUBackend.h
 MDBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
 MCMoves/VolumeMove.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MCMoves/VolumeMove.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MinBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MinBackend.cpp
 MinBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MinBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MinBackend.h
 ../Observables/ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 ./Thermostats/ThermostatFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MinBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MinBackend.h
 MDBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
 ./Thermostats/BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.cpp
 sstream
 -
 fstream
 -
 SimBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Utilities/ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 ../Interactions/InteractionFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 ../Forces/ForceFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.h
 ../Lists/ListFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
 ../Boxes/BoxFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
 ../PluginManagement/PluginManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Observables/ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 ../Utilities/Timings.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
 cmath
 -
 fstream
@@ -280,323 +280,323 @@ cfloat
 vector
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.cpp
 BrownianThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.cpp
 BussiThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../../Utilities/ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.cpp
 DPDThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../../Utilities/ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 ../../Lists/BaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 ../../Interactions/BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.cpp
 LangevinThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.cpp
 NoThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.cpp
 RefreshThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.cpp
 cfloat
 -
 SRDThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.cpp
 ThermostatFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
 BrownianThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BrownianThermostat.h
 NoThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/NoThermostat.h
 RefreshThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/RefreshThermostat.h
 LangevinThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/LangevinThermostat.h
 SRDThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/SRDThermostat.h
 BussiThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BussiThermostat.h
 DPDThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/DPDThermostat.h
 ../../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/ThermostatFactory.h
 BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 ../../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.cpp
 set
 -
 sstream
 -
 VMMC_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Interactions/RNAInteraction2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
 ../Interactions/DNA2Interaction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/VMMC_CPUBackend.h
 MC_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MC_CPUBackend.h
 ../Utilities/Weights.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 ../Utilities/Histogram.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.cpp
 BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.cpp
 BoxFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
 CubicBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
 OrthogonalBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.h
 LeesEdwardsCubicBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
 BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.cpp
 CubicBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
 cfloat
 -
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
 BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.cpp
 LeesEdwardsCubicBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.h
 ../Utilities/ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/LeesEdwardsCubicBox.h
 CubicBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/CubicBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.cpp
 OrthogonalBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.h
 cfloat
 -
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/OrthogonalBox.h
 BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/CUDABaseBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/CUDABaseBackend.h
 cuda.h
 -
 cuda_runtime_api.h
 -
 ../cuda_utils/cuda_device_utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/cuda_device_utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/cuda_device_utils.h
 ../cuda_utils/CUDABox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 ../Lists/CUDABaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
 ../CUDA_sort.cuh
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDA_sort.cuh
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDA_sort.cuh
 ../Interactions/CUDABaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Interactions/CUDABaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Interactions/CUDABaseInteraction.h
 ../../Observables/BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/FFS_MD_CUDAMixedBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/FFS_MD_CUDAMixedBackend.h
 MD_CUDAMixedBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDAMixedBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDAMixedBackend.h
 ../../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 ../../Backends/FFS_MD_CPUBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/FFS_MD_CPUBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDABackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDABackend.h
 cuda.h
 -
 cuda_runtime_api.h
 -
 CUDABaseBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/CUDABaseBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/CUDABaseBackend.h
 ../../Backends/MDBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/MDBackend.h
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 ../Thermostats/CUDABaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Thermostats/CUDABaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Thermostats/CUDABaseThermostat.h
 ../cuda_utils/cuda_device_utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/cuda_device_utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/cuda_device_utils.h
 ../Lists/CUDANoList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDANoList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDANoList.h
 ../Lists/CUDASimpleVerletList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDASimpleVerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDASimpleVerletList.h
 ../CUDAForces.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAForces.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAForces.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDAMixedBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDAMixedBackend.h
 MD_CUDABackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDABackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Backends/MD_CUDABackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAForces.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAForces.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 cuda.h
 -
 cuda_runtime_api.h
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 cuda_utils/helper_cuda.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_cuda.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_cuda.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDA_sort.cuh
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDA_sort.cuh
 CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Interactions/CUDABaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Interactions/CUDABaseInteraction.h
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 ../Lists/CUDABaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
 ../cuda_utils/CUDABox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 ../cuda_utils/CUDABox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDANoList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDANoList.h
 CUDABaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDASimpleVerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDASimpleVerletList.h
 CUDABaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Lists/CUDABaseList.h
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/Thermostats/CUDABaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/Thermostats/CUDABaseThermostat.h
 ../../Backends/Thermostats/BaseThermostat.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/Thermostats/BaseThermostat.h
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 curand_kernel.h
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/CUDABox.h
 ../../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 cfloat
 -
 vector_functions.h
 -
 ../CUDAUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/CUDAUtils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/cuda_device_utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/cuda_device_utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_cuda.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_cuda.h
 stdlib.h
 -
 stdio.h
@@ -604,9 +604,9 @@ stdio.h
 string.h
 -
 helper_string.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_string.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_string.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_string.h
+/home/joelh/Documents/DNAnano/oxDNA/src/CUDA/cuda_utils/helper_string.h
 stdio.h
 -
 stdlib.h
@@ -620,145 +620,147 @@ string.h
 strings.h
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.cpp
 AlignmentField.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.cpp
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 string
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/COMForce.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/COMForce.cpp
 vector
 -
 COMForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/COMForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/COMForce.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/COMForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/COMForce.h
 set
 -
 string
 -
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.cpp
 ConstantRateForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.cpp
 ConstantRateTorque.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.cpp
 ConstantTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.cpp
 ForceFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.h
 COMForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/COMForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/COMForce.h
 ConstantRateForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateForce.h
 SawtoothForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.h
 ConstantRateTorque.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantRateTorque.h
 ConstantTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ConstantTrap.h
 LowdimMovingTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.h
 MovingTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.h
 MutualTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.h
 RepulsionPlane.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.h
 RepulsionPlaneMoving.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.h
+RepulsionCylinder.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionCylinder.h
 LJWall.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJWall.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJWall.h
 HardWall.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/HardWall.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/HardWall.h
 RepulsiveSphere.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.h
 AlignmentField.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/AlignmentField.h
 GenericCentralForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.h
 LJCone.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
 fstream
 -
 sstream
 -
 LJCone.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/ForceFactory.h
 string
 -
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.cpp
 GenericCentralForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.h
 cfloat
 -
 fstream
@@ -766,135 +768,147 @@ fstream
 map
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/GenericCentralForce.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/HardWall.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/HardWall.cpp
 HardWall.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/HardWall.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/HardWall.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/HardWall.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/HardWall.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJCone.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJCone.cpp
 LJCone.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJCone.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJWall.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJWall.cpp
 LJWall.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJWall.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJWall.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LJWall.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LJWall.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.cpp
 LowdimMovingTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/LowdimMovingTrap.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.cpp
 MovingTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MovingTrap.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.cpp
 MutualTrap.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/MutualTrap.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.cpp
-RepulsionPlane.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionCylinder.cpp
+RepulsionCylinder.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionCylinder.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionCylinder.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.cpp
-RepulsionPlaneMoving.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.cpp
+RepulsionPlane.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.h
+../Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlane.h
+BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.cpp
+RepulsionPlaneMoving.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.h
+../Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 algorithm
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsionPlaneMoving.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.cpp
 RepulsiveSphere.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/RepulsiveSphere.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.cpp
 SawtoothForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/SawtoothForce.h
 BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 map
 -
 cfloat
@@ -906,327 +920,327 @@ set
 vector
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 ../Lists/BaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ./Mesh.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/Mesh.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/Mesh.h
 ../Lists/Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.cpp
 BoxInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.h
 InteractionUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.cpp
 CustomInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.h
 ../Particles/CustomParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.cpp
 DHSInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.cpp
 DNA2Interaction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.cpp
 fstream
 -
 DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.cpp
 DNAInteraction_nomesh.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.h
 DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.cpp
 fstream
 -
 DNAInteraction_relax.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax2.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax2.cpp
 fstream
 -
 DNAInteraction_relax2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax2.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax2.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.cpp
 HSInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.cpp
 HardCylinderInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 InteractionUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.cpp
 HardSpheroCylinderInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 InteractionUtils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.cpp
 InteractionFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 ../PluginManagement/PluginManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 DNAInteraction_nomesh.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_nomesh.h
 RNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
 LJInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.h
 PatchyInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.h
 PatchyInteractionDan.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.h
 KFInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.h
 DNAInteraction_relax.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction_relax.h
 TSPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.h
 HSInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HSInteraction.h
 DHSInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DHSInteraction.h
 BoxInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BoxInteraction.h
 HardCylinderInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardCylinderInteraction.h
 HardSpheroCylinderInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/HardSpheroCylinderInteraction.h
 CustomInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/CustomInteraction.h
 DNA2Interaction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 RNAInteraction2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
 RNAInteraction_relax.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.h
 TEPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 JordanInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionUtils.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.cpp
 JordanInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.h
 ../Particles/JordanParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/JordanInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.cpp
 KFInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.h
 ../Particles/PatchyParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/KFInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.cpp
 LJInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/LJInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/Mesh.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/Mesh.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.cpp
 PatchyInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.h
 ../Particles/PatchyParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.cpp
 iostream
 -
 PatchyInteractionDan.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/PatchyInteractionDan.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Particles/PatchyParticleDan.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.cpp
 RNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
 fstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 rna_model.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
 ../Particles/RNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.cpp
 RNAInteraction2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
 RNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.cpp
 fstream
 -
 RNAInteraction_relax.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.h
 ../Particles/RNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction_relax.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 RNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.cpp
 fstream
 -
 sstream
 -
 TEPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Particles/TEPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.cpp
 fstream
 -
 TSPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TSPInteraction.h
 vector
 -
 BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Particles/TSPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.h
 ../Lists/Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
 cstdlib
 -
 cstdio
 -
 ../Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 vector
 -
 utility
@@ -1234,161 +1248,161 @@ utility
 set
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Utilities/Timings.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
 ../Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.cpp
 BinVerletList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.h
 Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.cpp
 Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 ../Utilities/ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 BaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 cfloat
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/ListFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/ListFactory.cpp
 ListFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
 NoList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/NoList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/NoList.h
 Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 VerletList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/VerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/VerletList.h
 BinVerletList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BinVerletList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
 BaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/NoList.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/NoList.cpp
 NoList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/NoList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/NoList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/NoList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/NoList.h
 BaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/VerletList.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/VerletList.cpp
 VerletList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/VerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/VerletList.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/VerletList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/VerletList.h
 Cells.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Managers/SimManager.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Managers/SimManager.cpp
 csignal
 -
 unistd.h
 -
 SimManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
 ../Backends/BackendFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/BackendFactory.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Utilities/Timings.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Managers/SimManager.h
 cstring
 -
 ctime
 -
 ../Utilities/time_scales/time_scales.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Backends/SimBackend.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.cpp
 BackendInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Interactions/BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Lists/BaseList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
 ../Utilities/ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.cpp
 sstream
 -
 Checkpoint.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 Configurations/BinaryConfiguration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.cpp
 CoaxVariables.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.cpp
 sstream
 -
 BinaryConfiguration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
 Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.cpp
 sstream
 -
 ChimeraOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.h
 ../Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.cpp
 sstream
 -
 typeinfo
@@ -1396,571 +1410,571 @@ typeinfo
 map
 -
 Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../TotalEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.cpp
 sstream
 -
 JordanOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.h
 ../../Particles/JordanParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.h
 ../Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.cpp
 sstream
 -
 PdbOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.h
 ../Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.cpp
 sstream
 -
 TEPtclOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.h
 ../Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../../Particles/TEPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.cpp
 sstream
 -
 TEPxyzOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.h
 ../Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../../Particles/TEPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.cpp
 sstream
 -
 TclOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.h
 ../Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 ../../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Contacts.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Contacts.cpp
 Contacts.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Contacts.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Contacts.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Interactions/TEPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Contacts.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Contacts.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Density.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Density.cpp
 Density.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Density.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Density.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Density.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Density.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.cpp
 DensityProfile.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Distance.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Distance.cpp
 Distance.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Distance.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Distance.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Distance.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Distance.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.cpp
 ExternalTorque.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.h
 string
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.cpp
 ForceEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/FormFactor.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/FormFactor.cpp
 FormFactor.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/FormFactor.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/FormFactor.h
 algorithm
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/FormFactor.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/FormFactor.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 sstream
 -
 list
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.cpp
 HBEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBList.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBList.cpp
 HBList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBList.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBList.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.cpp
 KineticEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 set
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.cpp
 MeanVectorCosine.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Interactions/TEPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.cpp
 ObservableFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.h
 ../PluginManagement/PluginManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 Step.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Step.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Step.h
 PotentialEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
 KineticEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
 TotalEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
 HBEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBEnergy.h
 BackendInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BackendInfo.h
 PairEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.h
 PairForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairForce.h
 OrderParameterValues.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.h
 HBList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/HBList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/HBList.h
 StrandwiseBonds.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.h
 ForceEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ForceEnergy.h
 Pressure.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pressure.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pressure.h
 Density.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Density.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Density.h
 DensityProfile.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/DensityProfile.h
 ParticlePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.h
 Rdf.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Rdf.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Rdf.h
 Distance.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Distance.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Distance.h
 CoaxVariables.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/CoaxVariables.h
 Pitch.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pitch.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pitch.h
 SaltExtrapolation.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.h
 ExternalTorque.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ExternalTorque.h
 MeanVectorCosine.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/MeanVectorCosine.h
 VectorAngle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.h
 Checkpoint.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Checkpoint.h
 Contacts.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Contacts.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Contacts.h
 Writhe.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Writhe.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Writhe.h
 UnstackedList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
 PlectonemePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
 StretchedBonds.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.h
 StructureFactor.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.h
 FormFactor.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/FormFactor.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/FormFactor.h
 UnstackedList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
 PlectonemePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
 TEPPlectonemePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.h
 Configurations/PdbOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/PdbOutput.h
 Configurations/ChimeraOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/ChimeraOutput.h
 Configurations/Configuration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/Configuration.h
 Configurations/BinaryConfiguration.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/BinaryConfiguration.h
 Configurations/TclOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TclOutput.h
 Configurations/TEPtclOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPtclOutput.h
 Configurations/TEPxyzOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/TEPxyzOutput.h
 Configurations/JordanOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Configurations/JordanOutput.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.cpp
 sstream
 -
 iostream
 -
 ObservableOutput.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 ObservableFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableFactory.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 vector
 -
 fstream
 -
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.cpp
 OrderParameterValues.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/OrderParameterValues.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.cpp
 PairEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.h
 sstream
 -
 map
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairEnergy.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairForce.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairForce.cpp
 PairForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairForce.h
 sstream
 -
 map
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PairForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PairForce.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.cpp
 ParticlePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ParticlePosition.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pitch.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pitch.cpp
 Pitch.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pitch.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pitch.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pitch.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pitch.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.cpp
 PlectonemePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PlectonemePosition.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.cpp
 PotentialEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pressure.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pressure.cpp
 Pressure.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pressure.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pressure.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Pressure.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Pressure.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Rdf.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Rdf.cpp
 Rdf.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Rdf.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Rdf.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Rdf.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Rdf.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.cpp
 SaltExtrapolation.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.h
 sstream
 -
 map
 -
 ../Interactions/InteractionFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 ../Interactions/DNA2Interaction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/SaltExtrapolation.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Interactions/InteractionFactory.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 ../Utilities/Histogram.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
 ../Utilities/Weights.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Step.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Step.cpp
 Step.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Step.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Step.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Step.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Step.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.cpp
 StrandwiseBonds.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StrandwiseBonds.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.cpp
 StretchedBonds.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StretchedBonds.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.cpp
 StructureFactor.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.h
 algorithm
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/StructureFactor.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 sstream
 -
 list
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.cpp
 TEPPlectonemePosition.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TEPPlectonemePosition.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.cpp
 sstream
 -
 TotalEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/TotalEnergy.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 PotentialEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/PotentialEnergy.h
 KineticEnergy.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/KineticEnergy.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.cpp
 UnstackedList.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
 sstream
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/UnstackedList.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 ../Interactions/DNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNAInteraction.h
 ../Interactions/DNA2Interaction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/DNA2Interaction.h
 ../Interactions/RNAInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction.h
 ../Interactions/RNAInteraction2.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/RNAInteraction2.h
 ../Interactions/rna_model.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.cpp
 VectorAngle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Interactions/TEPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/VectorAngle.h
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Writhe.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Writhe.cpp
 Writhe.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Writhe.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Writhe.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Interactions/TEPInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/TEPInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/Writhe.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/Writhe.h
 iostream
 -
 BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.cpp
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 cstring
 -
 cstdlib
@@ -1970,115 +1984,115 @@ cassert
 stdio.h
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 ../Forces/BaseForce.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.cpp
 CustomParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/CustomParticle.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 set
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.cpp
 DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.cpp
 JordanParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/JordanParticle.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.cpp
 PatchyParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticle.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.cpp
 PatchyParticleDan.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/PatchyParticleDan.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.cpp
 RNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Interactions/rna_model.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/rna_model.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/SpheroCylinder.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/SpheroCylinder.cpp
 SpheroCylinder.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/SpheroCylinder.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/SpheroCylinder.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/SpheroCylinder.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/SpheroCylinder.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.cpp
 TEPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 set
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.cpp
 TSPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TSPParticle.h
 BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 set
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.cpp
 PluginManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 dlfcn.h
 -
 sys/stat.h
 -
 ../Utilities/Logger.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 string
 -
 vector
@@ -2086,35 +2100,35 @@ vector
 stack
 -
 ../Observables/BaseObservable.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 ../Interactions/BaseInteraction.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.cpp
 ConfigInfo.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 string
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Histogram.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Histogram.cpp
 cfloat
 -
 sstream
 -
 Histogram.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
 OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Histogram.h
 cstdlib
 -
 cstdio
@@ -2124,27 +2138,27 @@ vector
 string
 -
 Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.cpp
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 Logger.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 cstdarg
 -
 parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.cpp
 OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 cstdlib
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 set
 -
 utility
@@ -2162,25 +2176,25 @@ list
 iterator
 -
 ../Utilities/Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Utilities/oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/BaseParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 ../Boxes/BaseBox.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.cpp
 SignalManager.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.h
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.h
 csignal
 -
 execinfo.h
@@ -2188,19 +2202,19 @@ execinfo.h
 ucontext.h
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Timings.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.cpp
 Timings.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 Logger.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 algorithm
 -
 cuda_runtime_api.h
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
 ctime
 -
 vector
@@ -2210,23 +2224,23 @@ map
 string
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.cpp
 Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Particles/TEPParticle.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/TEPParticle.h
 ../Particles/DNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/DNANucleotide.h
 ../Particles/RNANucleotide.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Particles/RNANucleotide.h
 sstream
 -
 errno.h
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 algorithm
 -
 functional
@@ -2246,43 +2260,43 @@ cstdio
 vector
 -
 ../defs.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Weights.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Weights.cpp
 cfloat
 -
 Weights.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Weights.h
 OrderParameters.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/OrderParameters.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.cpp
 oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 string
 -
 cstdarg
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.cpp
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.cpp
 parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 ../Utils.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Logger.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 ../oxDNAException.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 algorithm
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 cstdio
 -
 cstdlib
@@ -2302,7 +2316,7 @@ map
 set
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
 stdio.h
 -
 stdlib.h
@@ -2310,21 +2324,19 @@ stdlib.h
 math.h
 -
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/defs.h
+/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
 cmath
 -
 strings.h
 -
-xlocale.h
--
 iostream
 -
 model.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/model.h
+/home/joelh/Documents/DNAnano/oxDNA/src/model.h
 Utilities/Logger.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
 Utilities/parse_input/parse_input.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/model.h
+/home/joelh/Documents/DNAnano/oxDNA/src/model.h
 

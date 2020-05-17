@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/ConstructwiseBonds.dylib"
   "../../../contrib/rovigatti/ConstructwiseBonds.pdb"
+  "../../../contrib/rovigatti/ConstructwiseBonds.so"
   "CMakeFiles/ConstructwiseBonds.dir/src/Observables/ConstructwiseBonds.cpp.o"
 )
 

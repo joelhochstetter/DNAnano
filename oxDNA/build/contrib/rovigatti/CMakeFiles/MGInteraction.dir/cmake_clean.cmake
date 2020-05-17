@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/MGInteraction.dylib"
   "../../../contrib/rovigatti/MGInteraction.pdb"
+  "../../../contrib/rovigatti/MGInteraction.so"
   "CMakeFiles/MGInteraction.dir/src/Interactions/MGInteraction.cpp.o"
 )
 

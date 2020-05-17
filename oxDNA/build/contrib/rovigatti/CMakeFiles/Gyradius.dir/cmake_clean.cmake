@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/Gyradius.dylib"
   "../../../contrib/rovigatti/Gyradius.pdb"
+  "../../../contrib/rovigatti/Gyradius.so"
   "CMakeFiles/Gyradius.dir/src/Observables/Gyradius.cpp.o"
 )
 

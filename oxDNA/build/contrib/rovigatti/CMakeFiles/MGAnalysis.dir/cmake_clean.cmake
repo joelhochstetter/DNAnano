@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/MGAnalysis.dylib"
   "../../../contrib/rovigatti/MGAnalysis.pdb"
+  "../../../contrib/rovigatti/MGAnalysis.so"
   "CMakeFiles/MGAnalysis.dir/src/Observables/MGAnalysis.cpp.o"
 )
 

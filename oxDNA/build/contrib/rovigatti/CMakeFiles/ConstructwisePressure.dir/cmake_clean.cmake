@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/ConstructwisePressure.dylib"
   "../../../contrib/rovigatti/ConstructwisePressure.pdb"
+  "../../../contrib/rovigatti/ConstructwisePressure.so"
   "CMakeFiles/ConstructwisePressure.dir/src/Observables/ConstructwisePressure.cpp.o"
 )
 

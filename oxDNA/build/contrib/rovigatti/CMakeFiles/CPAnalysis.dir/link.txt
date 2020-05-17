@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o ../../../contrib/rovigatti/CPAnalysis.dylib -install_name /Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/CPAnalysis.dylib CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,CPAnalysis.so -o ../../../contrib/rovigatti/CPAnalysis.so CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o 

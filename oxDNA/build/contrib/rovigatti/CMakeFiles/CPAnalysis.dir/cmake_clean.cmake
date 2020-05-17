@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/CPAnalysis.dylib"
   "../../../contrib/rovigatti/CPAnalysis.pdb"
+  "../../../contrib/rovigatti/CPAnalysis.so"
   "CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o"
 )
 

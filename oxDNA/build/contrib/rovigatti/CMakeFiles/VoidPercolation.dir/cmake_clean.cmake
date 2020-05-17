@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/VoidPercolation.dylib"
   "../../../contrib/rovigatti/VoidPercolation.pdb"
+  "../../../contrib/rovigatti/VoidPercolation.so"
   "CMakeFiles/VoidPercolation.dir/src/Observables/VoidPercolation.cpp.o"
 )
 

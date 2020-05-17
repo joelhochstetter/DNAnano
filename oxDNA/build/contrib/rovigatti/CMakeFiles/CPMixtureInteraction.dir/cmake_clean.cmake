@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/CPMixtureInteraction.dylib"
   "../../../contrib/rovigatti/CPMixtureInteraction.pdb"
+  "../../../contrib/rovigatti/CPMixtureInteraction.so"
   "CMakeFiles/CPMixtureInteraction.dir/src/Interactions/CPMixtureInteraction.cpp.o"
 )
 

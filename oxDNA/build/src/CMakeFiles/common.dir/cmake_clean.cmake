@@ -44,6 +44,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/common.dir/Forces/LowdimMovingTrap.cpp.o"
   "CMakeFiles/common.dir/Forces/MovingTrap.cpp.o"
   "CMakeFiles/common.dir/Forces/MutualTrap.cpp.o"
+  "CMakeFiles/common.dir/Forces/RepulsionCylinder.cpp.o"
   "CMakeFiles/common.dir/Forces/RepulsionPlane.cpp.o"
   "CMakeFiles/common.dir/Forces/RepulsionPlaneMoving.cpp.o"
   "CMakeFiles/common.dir/Forces/RepulsiveSphere.cpp.o"

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/Remoteness.dylib"
   "../../../contrib/rovigatti/Remoteness.pdb"
+  "../../../contrib/rovigatti/Remoteness.so"
   "CMakeFiles/Remoteness.dir/src/Observables/Remoteness.cpp.o"
 )
 

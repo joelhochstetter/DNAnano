@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/SPBAnalysis.dylib"
   "../../../contrib/rovigatti/SPBAnalysis.pdb"
+  "../../../contrib/rovigatti/SPBAnalysis.so"
   "CMakeFiles/SPBAnalysis.dir/src/Observables/SPBAnalysis.cpp.o"
 )
 

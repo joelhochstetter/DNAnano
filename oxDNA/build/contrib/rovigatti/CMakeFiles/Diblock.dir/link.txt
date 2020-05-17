@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o ../../../contrib/rovigatti/Diblock.dylib -install_name /Users/Jhoch/Documents/DNAnano/oxDNA/contrib/rovigatti/Diblock.dylib CMakeFiles/Diblock.dir/src/Observables/DiblockGr.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,Diblock.so -o ../../../contrib/rovigatti/Diblock.so CMakeFiles/Diblock.dir/src/Observables/DiblockGr.cpp.o 

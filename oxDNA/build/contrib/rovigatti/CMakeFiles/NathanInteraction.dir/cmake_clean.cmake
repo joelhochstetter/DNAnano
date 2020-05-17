@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/NathanInteraction.dylib"
   "../../../contrib/rovigatti/NathanInteraction.pdb"
+  "../../../contrib/rovigatti/NathanInteraction.so"
   "CMakeFiles/NathanInteraction.dir/src/Interactions/NathanInteraction.cpp.o"
 )
 

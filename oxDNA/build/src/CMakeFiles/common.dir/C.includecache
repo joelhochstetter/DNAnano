@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.c
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.c
 time_scales.h
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
 
-/Users/Jhoch/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
+/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
 stdio.h
 -
 stdlib.h

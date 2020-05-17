@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -D_FORCE_INLINES -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/oxDNA.dir/oxDNA.cpp.o  -o ../bin/oxDNA libcommon.a 
+/usr/bin/c++   -D_FORCE_INLINES -O3 -DNDEBUG  -rdynamic CMakeFiles/oxDNA.dir/oxDNA.cpp.o  -o ../bin/oxDNA  libcommon.a -ldl 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/GraftedInteraction.dylib"
   "../../../contrib/rovigatti/GraftedInteraction.pdb"
+  "../../../contrib/rovigatti/GraftedInteraction.so"
   "CMakeFiles/GraftedInteraction.dir/src/Interactions/GraftedInteraction.cpp.o"
 )
 

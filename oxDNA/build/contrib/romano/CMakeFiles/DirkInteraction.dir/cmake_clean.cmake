@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/romano/DirkInteraction.dylib"
   "../../../contrib/romano/DirkInteraction.pdb"
+  "../../../contrib/romano/DirkInteraction.so"
   "CMakeFiles/DirkInteraction.dir/src/Interactions/DirkInteraction.cpp.o"
 )
 

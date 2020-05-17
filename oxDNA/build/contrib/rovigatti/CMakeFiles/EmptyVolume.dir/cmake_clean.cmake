@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/EmptyVolume.dylib"
   "../../../contrib/rovigatti/EmptyVolume.pdb"
+  "../../../contrib/rovigatti/EmptyVolume.so"
   "CMakeFiles/EmptyVolume.dir/src/Observables/EmptyVolume.cpp.o"
 )
 

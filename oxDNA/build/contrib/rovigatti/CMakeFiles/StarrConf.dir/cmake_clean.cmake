@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/StarrConf.dylib"
   "../../../contrib/rovigatti/StarrConf.pdb"
+  "../../../contrib/rovigatti/StarrConf.so"
   "CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o"
 )
 

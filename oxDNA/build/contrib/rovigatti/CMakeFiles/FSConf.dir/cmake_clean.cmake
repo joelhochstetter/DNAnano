@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/FSConf.dylib"
   "../../../contrib/rovigatti/FSConf.pdb"
+  "../../../contrib/rovigatti/FSConf.so"
   "CMakeFiles/FSConf.dir/src/Observables/FSConf.cpp.o"
 )
 

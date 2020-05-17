@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/RadialDensityProfile.dylib"
   "../../../contrib/rovigatti/RadialDensityProfile.pdb"
+  "../../../contrib/rovigatti/RadialDensityProfile.so"
   "CMakeFiles/RadialDensityProfile.dir/src/Observables/RadialDensityProfile.cpp.o"
 )
 

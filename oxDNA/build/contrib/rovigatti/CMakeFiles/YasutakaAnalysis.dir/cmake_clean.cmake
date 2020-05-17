@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/YasutakaAnalysis.dylib"
   "../../../contrib/rovigatti/YasutakaAnalysis.pdb"
+  "../../../contrib/rovigatti/YasutakaAnalysis.so"
   "CMakeFiles/YasutakaAnalysis.dir/src/Observables/YasutakaAnalysis.cpp.o"
 )
 

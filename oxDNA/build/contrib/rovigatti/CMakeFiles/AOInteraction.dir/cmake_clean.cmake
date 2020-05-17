@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../contrib/rovigatti/AOInteraction.dylib"
   "../../../contrib/rovigatti/AOInteraction.pdb"
+  "../../../contrib/rovigatti/AOInteraction.so"
   "CMakeFiles/AOInteraction.dir/src/Interactions/AOInteraction.cpp.o"
 )
 

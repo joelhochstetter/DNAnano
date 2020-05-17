@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Jhoch/Documents/DNAnano/oxDNA/contrib/romano/src/Interactions/DirkInteraction2.cpp" "/Users/Jhoch/Documents/DNAnano/oxDNA/build/contrib/romano/CMakeFiles/DirkInteraction2.dir/src/Interactions/DirkInteraction2.cpp.o"
+  "/home/joelh/Documents/DNAnano/oxDNA/contrib/romano/src/Interactions/DirkInteraction2.cpp" "/home/joelh/Documents/DNAnano/oxDNA/build/contrib/romano/CMakeFiles/DirkInteraction2.dir/src/Interactions/DirkInteraction2.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "Clang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
