@@ -11,8 +11,6 @@ excel file.
 scafperm is the index of the nt of scaffold to allocate the 5' end of the long 
 scaffold strand in the origami design
 
-
-Last edited: 3/6/20
 '''
 
 import sys
