@@ -5,56 +5,78 @@ Inputs:
     seqFile: 'casa.sqs' the sequence file to use in oxDNA
     jsonFile: used to check strands are indexed natually to avoid errors
     base: Either A, G, C, T, or R (random)
-    row: row of the cadnano folder
+    rows: row of the cadnano folder. Can enter as many integers as you like
 
 Last edited: 3/6/20
 '''
-
-
 import sys
 import json
-
 
 seqFile  = sys.argv[1]
 jsonFile = sys.argv[2]
 base     = sys.argv[3]
-row      = sys.argv[4]
+
+rows = []
+for i in range(4, len(sys.argv)):
+    rows.append(int(sys.argv[i]))
 
 
 
-# check that base is either A,G,C,T,R
-if base not in ['A', 'G', 'C', 'T', 'R']:
-    print('ERROR invalid base provided\n Did not run')
-    return
-
-
-#import cadnanofile
-with open(jsonfile) as json_file:
-    cadnano = json.load(json_file)    
-
-
-#get virtual strands as list to edit. vstrands[0] gives a particular row
-vstrands = cadnano['vstrands']
-
-#Check to see if vstrands is indexed naturally. i.e. vstrand number = index number
-#If is not indexed naturally then an error is thrown.
-#I may later write code to fix this
-natIndex = True
-for i in range(len(vstrands)):
-    if i != vstrands[i]["num"]:
-        #throw an error as this code isn't written to handle this case
-        print('ERROR: unnatural vstrand index numbering used\n')
-        print('vstrand with num = ' + str(vstrands[i]["num"]) + 'is indexed at ' + str(i))
-        natIndex = False
+def rowSame(seqFile, jsonFile, base, rows):    
+    
+    # check that base is either A,G,C,T,R
+    if base not in ['A', 'G', 'C', 'T', 'R']:
+        print('ERROR invalid base provided\n Did not run')
         return
 
 
-updated = False
+    #import cadnanofile
+    with open(jsonFile) as json_file:
+        cadnano = json.load(json_file)    
 
-#Load sequence file
+
+    #get virtual strands as list to edit. vstrands[0] gives a particular row
+    vstrands = cadnano['vstrands']
+
+    #Check to see if vstrands is indexed naturally. i.e. vstrand number = index number
+    #If is not indexed naturally then an error is thrown.
+    #I may later write code to fix this
+    natIndex = True
+    for i in range(len(vstrands)):
+        if i != vstrands[i]["num"]:
+            #throw an error as this code isn't written to handle this case
+            print('ERROR: unnatural vstrand index numbering used\n')
+            print('vstrand with num = ' + str(vstrands[i]["num"]) + 'is indexed at ' + str(i))
+            natIndex = False
+            return
+
+
+    updated = False
+
+    #Load sequence file
+    with open(seqFile) as f:
+        l = list(f)
+
+    with open(seqFile, 'w') as output:
+        idx = 0
+        
+        for line in l:
+            #length of line
+            n = len(line.rstrip())
+            
+            if idx in rows:
+                output.write(base*n + '\n')
+                updated = True
+                print('Updated line ', idx, ' with base ', base)
+            else:
+                output.write(line)
+
+            idx += 1
+
+
+    if updated == False:
+        print('ERROR: row not found in file')
 
 
 
-if updated == False:
-    print('ERROR: row not found in file')
-
+rowSame(seqFile, jsonFile, base, rows)
