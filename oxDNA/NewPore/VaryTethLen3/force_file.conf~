@@ -1,0 +1,11 @@
+
+
+{
+type = repulsion_cylinder
+particle = -1
+stiff = 1.0
+dir = 0, 0, 1
+center = 50.0, 50.0, 50.0
+r0 = 10.57
+height = 61.05
+}
