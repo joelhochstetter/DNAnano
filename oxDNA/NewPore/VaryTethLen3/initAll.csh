@@ -8,17 +8,20 @@ cd $simPath
 
 
 #set-up sequences
-foreach l ( 10 25 40 55 70 85 100 115 )
+foreach l ( 15 30 45 60 75 90 105 120 )
     cd len$l
-    cd ogSeq    
+    cd ogSeq
+    cp $simPath/oxDNA1_sequence_dependent_parameters.txt .
     tcsh $simPath/init_poreV3.csh
         
     cd ..
     cd shiftSeq700
+    cp $simPath/oxDNA1_sequence_dependent_parameters.txt .
     tcsh $simPath/init_poreV3.csh
 
     cd ..
     cd tethAllT
+    cp $simPath/oxDNA1_sequence_dependent_parameters.txt .    
     tcsh $simPath/init_poreV3.csh
 
     cd ../..

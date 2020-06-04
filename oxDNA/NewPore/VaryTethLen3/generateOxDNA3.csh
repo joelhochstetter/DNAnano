@@ -7,7 +7,7 @@ cd $oxPath/NewPore/VaryTethLen3/
 
 
 #set-up sequences
-foreach l ( 10 25 40 55 70 85 100 115)
+foreach l ( 15 30 45 60 75 90 105 120 )
     mkdir len$l
     python3 $oxPath/NewPore/Scripts/changeTether.py pore.json $l 6 7 9 8
     mv pore*$l*.json len$l

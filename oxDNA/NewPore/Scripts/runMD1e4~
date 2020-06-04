@@ -26,8 +26,9 @@ verlet_skin = 0.20
 fix_diffusion = 0
 back_in_box = 1
 box_type = orthogonal
+
 use_average_seq = 0
-seq_dep_file = '../oxDNA1_sequence_dependent_parameters.txt'
+seq_dep_file = oxDNA1_sequence_dependent_parameters.txt
 
 
 ##############################

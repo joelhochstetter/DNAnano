@@ -20,7 +20,7 @@ b         = float(sys.argv[3]);
 stiffness = float(sys.argv[4]);
 
 if len(sys.argv) == 6:
-    sep = sys.argv[5];
+    sep = float(sys.argv[5])
 else:
     sep = 21.14 #tether separation ~18.0nm
 
