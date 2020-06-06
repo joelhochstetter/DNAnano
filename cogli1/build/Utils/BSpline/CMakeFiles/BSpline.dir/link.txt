@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libBSpline.a  CMakeFiles/BSpline.dir/BSpline.cpp.o CMakeFiles/BSpline.dir/BSplineBase.cpp.o CMakeFiles/BSpline.dir/BSplineLib.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libBSpline.a
