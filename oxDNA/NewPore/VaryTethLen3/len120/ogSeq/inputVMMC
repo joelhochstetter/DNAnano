@@ -4,7 +4,6 @@
 backend = CPU
 backend_precision = double
 debug = 1
-seed = 1
 
 ##############################
 ####    SIM PARAMETERS    ####
@@ -12,7 +11,7 @@ seed = 1
 sim_type = MC
 interaction_type = DNA
 ensemble = NVT
-steps =  1e4  
+steps =  1e3
 check_energy_every = 100
 check_energy_threshold = 1.e-4
 
@@ -39,8 +38,8 @@ log_file = log.dat
 no_stdout_energy = 0
 restart_step_counter = 1
 energy_file = energy.dat
-print_conf_interval = 100
-print_energy_every = 100
+print_conf_interval = 2500
+print_energy_every  = 2500
 time_scale = linear
 external_forces = 1
 external_forces_file = external.conf
