@@ -71,7 +71,7 @@ LR_vector<number> RepulsionCylinder<number>::value(llint step, LR_vector<number>
     number dd = d - this->_r0;
 	if (dh >=dd)  {
         dist = dd;
-        fDirection = (rel_pos - h*this->_direction)/d;
+        fDirection = (h*this->_direction - rel_pos)/d;
     } else {
         dist = dh;
         fDirection = this->_direction*((h > 0) - (h < 0));      

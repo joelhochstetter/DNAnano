@@ -3,13 +3,13 @@
 
 # compile C with /usr/bin/cc
 # compile CXX with /usr/bin/c++
-C_FLAGS = -O3 -DNDEBUG   -Wall -Wshadow -ffast-math -D'SVN_VERSION="SVN_NOT_FOUND"' -D'BUILD_TIME="16/05/20"'
+C_FLAGS = -O3 -DNDEBUG   -Wall -Wshadow -ffast-math -D'SVN_VERSION="SVN_NOT_FOUND"' -D'BUILD_TIME="04/06/20"'
 
 C_DEFINES = -DNOCUDA
 
 C_INCLUDES = 
 
-CXX_FLAGS =  -D_FORCE_INLINES -O3 -DNDEBUG   -Wall -Wshadow -ffast-math -D'SVN_VERSION="SVN_NOT_FOUND"' -D'BUILD_TIME="16/05/20"'
+CXX_FLAGS =  -D_FORCE_INLINES -O3 -DNDEBUG   -Wall -Wshadow -ffast-math -D'SVN_VERSION="SVN_NOT_FOUND"' -D'BUILD_TIME="04/06/20"'
 
 CXX_DEFINES = -DNOCUDA
 
