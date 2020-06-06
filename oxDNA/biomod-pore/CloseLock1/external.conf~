@@ -1,0 +1,50 @@
+{
+type = trap
+particle = 0
+stiff = 5
+pos0 = 24.5,35,35
+rate = 0.0
+dir = 1.0, 0.0, 0.0
+
+}
+
+{
+type = trap
+particle = 295
+stiff = 5
+pos0 = 47.5,35,35
+rate = 0.0
+dir = -1.0, 0.0, 0.0
+}
+
+{
+type = repulsion_plane
+particle = -1
+stiff = 5
+dir = 0.0, 1.0, 0.0
+position = -24.25
+}
+
+{
+type = repulsion_plane
+particle = -1
+stiff = 5
+dir = 1.0, 0.0, 0.0
+position = -24.25
+}
+
+{
+type = repulsion_plane
+particle = -1
+stiff = 5
+dir = 0.0, -1.0, 0.0
+position = 47.75
+}
+
+{
+type = repulsion_plane
+particle = -1
+stiff = 5
+dir = -1.0, 0.0, 0.0
+position = 47.75
+}
