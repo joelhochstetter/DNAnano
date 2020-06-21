@@ -1,0 +1,44 @@
+##############################
+####  PROGRAM PARAMETERS  ####
+##############################
+backend = CPU
+backend_precision = double
+debug = 1
+
+##############################
+####    SIM PARAMETERS    ####
+##############################
+sim_type = VMMC
+interaction_type = DNA
+ensemble = NVT
+steps =  1e5
+check_energy_every = 500
+check_energy_threshold = 1.e-4
+
+delta_translation = 0.25
+delta_rotation = 0.25
+T = 0.1
+verlet_skin = 0.45
+fix_diffusion = 0
+back_in_box = 1
+
+use_average_seq = 1
+seq_dep_file = oxDNA1_sequence_dependent_parameters.txt
+
+
+##############################
+####    INPUT / OUTPUT    ####
+##############################
+topology = prova.top
+conf_file = init1.conf 
+trajectory_file = trajectoryMC.dat
+refresh_vel = 1
+%log_file = log.dat
+no_stdout_energy = 0
+restart_step_counter = 1
+energy_file = energy.dat
+print_conf_interval = 500
+print_energy_every = 1000
+time_scale = linear
+external_forces = 1
+external_forces_file = external.conf

@@ -6,7 +6,9 @@
         pos: (binary) whether or not to store position
         vel: (binary) whether or not to store particle velocities
         rot: (binary) whether or not to store position
-
+        interval (integer): only timepoints that are a multiple of this interval
+        
+        
     Outputs:
         saves data to file 'out'
         saves column names to file 'out'+"col_file"+'.SOMETHING'
@@ -22,7 +24,10 @@ out = sys.argv[2] #output file names
 pos = int(sys.argv[3])
 vel = int(sys.argv[4])
 rot = int(sys.argv[5])
-
+if len(sys.argv) == 7:
+   interval = int(sys.argv[6])
+else:
+   interval = 1
 
 
 #fetch number of times and number of nucleotides
@@ -44,14 +49,20 @@ data = np.zeros((nt, ncols)) #last column contains times
 lnum = 1
 j = -1
 
+skip = False;
+
 with open(inp, 'r') as r:
    for line in r:
       cells = line.split()
       if cells[0] == 't':
-         j+=1 
-         data[j][ncols-1]  = float(cells[2])
+         if float(cells[2]) % interval == 0: 
+            j+=1 
+            data[j][ncols-1]  = float(cells[2])
+            skip == False
+         else:
+            skip == True
       elif cells[0] not in ['E', 'b']:
-         if (lnum - 4) % (nn + 3) in pts:
+         if ((lnum - 4) % (nn + 3) in pts) and (skip is False):
             start_from = 0
             if pos:
                 data[j][pts.index((lnum - 4) % (nn + 3))*3]  =float(cells[0])
