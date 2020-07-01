@@ -6,8 +6,6 @@ set oxPath = $argv[1]
 
 set lval    = $argv[2]
 
-set seed = $argv[3]
-
 set simPath = $oxPath/NewPore/VaryTethLen4AssymetricBarrel/
 
 cd $simPath
@@ -47,13 +45,15 @@ endsw
 
 
 
+
 foreach l ( $x ) 
     cd len$l
-    cd ogSeq
+    cd shiftSeq700
     cp $simPath/inputMCnoseed .
     tcsh $oxPath/NewPore/Scripts/seedOxRunfile.csh $seed
     pwd
     $oxPath/oxDNA inputMC$seed
+
 
     cd ../..
 end
