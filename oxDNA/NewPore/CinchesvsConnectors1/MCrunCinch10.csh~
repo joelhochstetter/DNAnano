@@ -25,7 +25,8 @@ endsw
 
 foreach l ( $x ) 
     cd len$l
-    cd free
+    @ cl = ($l - 36)
+    cd 'cinches_cl'$cl'_s10'
     cp $simPath/inputMCnoseed .
     tcsh $oxPath/NewPore/Scripts/seedOxRunfile.csh $seed
     pwd

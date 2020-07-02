@@ -25,7 +25,7 @@ endsw
 
 foreach l ( $x ) 
     cd len$l
-    cd free
+    cd connector1
     cp $simPath/inputMCnoseed .
     tcsh $oxPath/NewPore/Scripts/seedOxRunfile.csh $seed
     pwd
