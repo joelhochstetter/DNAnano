@@ -1,0 +1,37 @@
+#!/bin/sh
+pwd
+
+set oxPath = ~/Documents/DNAnano/oxDNA
+set simPath = ~/Documents/DNAnano/oxDNA/NewPore/fromArtemis/CinchesvsConnectors1/
+
+cd $simPath
+
+
+#set-up sequences
+foreach l ( 120 160 )
+    cd len$l
+    cd free
+    python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC0 sampleTrajMC.dat numbonds.txt
+        
+    cd ..
+    cd connector1
+    python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC0 sampleTrajMC.dat numbonds.txt
+
+    cd ..
+    cd connector3
+    python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC0 sampleTrajMC.dat numbonds.txt
+    
+    @ cl1 = ($l - 36)
+    @ cl2 = ($l - 78)        
+    
+    foreach cl ( $cl1 $cl2 )
+        foreach s ( 5 10 )
+            cd ..   
+            cd 'cinches_cl'$cl'_s'$s
+            python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC sampleTrajMC.dat numbonds.txt
+        end
+    end    
+    
+    cd ../..
+end
+    

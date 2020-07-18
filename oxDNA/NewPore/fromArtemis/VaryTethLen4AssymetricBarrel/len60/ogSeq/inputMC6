@@ -1,0 +1,4 @@
+trajectory_file = trajectoryMC6.dat
+log_file = log6.dat
+energy_file = energy6.dat
+seed = 6

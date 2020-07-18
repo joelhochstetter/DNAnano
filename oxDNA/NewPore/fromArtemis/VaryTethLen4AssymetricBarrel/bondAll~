@@ -1,0 +1,26 @@
+#!/bin/sh
+pwd
+
+set oxPath = ~/Documents/DNAnano/oxDNA
+set simPath = ~/Documents/DNAnano/oxDNA/NewPore/fromArtemis/VaryTethLen4AssymetricBarrel/
+
+cd $simPath
+
+
+#set-up sequences
+foreach l ( 15 30 45 60 75 90 105 120 135 150 )
+    cd len$l
+    cd ogSeq
+    python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC0 sampleTrajMC.dat numbonds.txt
+        
+    cd ..
+    cd shiftSeq700
+    python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC sampleTrajMC.dat numbonds.txt
+
+    cd ..
+    cd tethAllT
+    python2.7 ~/Documents/DNAnano/oxDNA/UTILS/getBonds.py inputMC sampleTrajMC.dat numbonds.txt
+
+    cd ../..
+end
+    
