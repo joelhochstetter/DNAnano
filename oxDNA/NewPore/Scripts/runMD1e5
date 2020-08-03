@@ -4,7 +4,6 @@
 backend = CPU
 backend_precision = double
 debug = 1
-seed = 10
 
 ##############################
 ####    SIM PARAMETERS    ####
