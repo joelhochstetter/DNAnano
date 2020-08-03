@@ -169,8 +169,8 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
     venus         = list("CGTACAACCTTGACCTTACCT")                               
     
     # numCols = 147 <=> docked || 168 undocked
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD0.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD0.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 168) and jsonfile == "MD0.json")
+    if numRows == 15 and (numCols == 168) and jsonfile == "MD0.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:21]    = rc(neptune)[0:21]
@@ -187,8 +187,8 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
             rows[105:126] = comp(juno)[0:21]
             rows[126:147] = comp(jupiter)[0:21]                
         
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD1.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD1.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 189) and jsonfile == "MD1.json")
+    if numRows == 15 and (numCols == 189) and jsonfile == "MD1.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:9]     = list("AGTCTTAGC")
@@ -236,8 +236,8 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
             rows[173:182] = comp(jupiter)[12:21]  
 
 
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD2.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD2.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 189) and jsonfile == "MD2.json")
+    if numRows == 15 and (numCols == 189) and jsonfile == "MD2.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:9]     = list("TCGTTGTAT")
@@ -285,8 +285,8 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
             rows[173:182] = comp(brunnette)[12:21]          
 
 
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD3.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD3.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 168) and jsonfile == "MD3.json")
+    if numRows == 15 and (numCols == 168) and jsonfile == "MD3.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:21]    = rc(brunnette)[0:21]

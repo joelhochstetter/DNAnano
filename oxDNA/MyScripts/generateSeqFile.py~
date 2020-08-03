@@ -169,8 +169,8 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
     venus         = list("CGTACAACCTTGACCTTACCT")                               
     
     # numCols = 147 <=> docked || 168 undocked
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD0.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD0.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 168) and jsonfile == "MD0.json")
+    if numRows == 15 and (numCols == 168) and jsonfile == "MD0.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:21]    = rc(neptune)[0:21]
@@ -187,8 +187,8 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
             rows[105:126] = comp(juno)[0:21]
             rows[126:147] = comp(jupiter)[0:21]                
         
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD1.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD1.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 189) and jsonfile == "MD1.json")
+    if numRows == 15 and (numCols == 189) and jsonfile == "MD1.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:9]     = list("AGTCTTAGC")
@@ -236,27 +236,27 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
             rows[173:182] = comp(jupiter)[12:21]  
 
 
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD2.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD2.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 189) and jsonfile == "MD2.json")
+    if numRows == 15 and (numCols == 189) and jsonfile == "MD2.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:9]     = list("TCGTTGTAT")
             rows[9:19]    = rc(brunnette)[2:12]
-            rows[19:21]   = list("AT")
+            rows[19:21]   = list("CC")
             rows[21:42]   = rc(apollo)[0:21]
             rows[45:54]   = rc(brunnette)[12:21]
             rows[54:56]   = rc(brunnette)[0:2]                        
 
             rows[63:72]   = list("TCGTTGTAT")
             rows[72:84]   = rc(brunnette)[2:12]
-            rows[84:86]   = list("AT")
+            rows[84:86]   = list("CC")
             rows[86:107]  = rc(venus)[0:21]
             rows[108:110]   = rc(brunnette)[0:2]   
             rows[110:119]   = rc(brunnette)[12:21]            
             
             rows[126:135] = list("TCGTTGTAT")
             rows[135:145] = rc(brunnette)[2:12]
-            rows[145:147] = list("AT")
+            rows[145:147] = list("CC")
             rows[147:168] = rc(juno)[0:21]
             rows[171:173] = rc(brunnette)[0:2]            
             rows[173:182] = rc(brunnette)[12:21]
@@ -264,29 +264,29 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
                        
         for rows in [11,13,15]: #odd
             rows[0:21]    = comp(apollo)[0:21]
-            rows[21:23]   = reverse(list("AT"))
+            rows[21:23]   = reverse(list("CC"))
             rows[23:33]   = comp(brunnette)[2:12]
             rows[33:42]   = reverse(list("TCGTTGTAT")) 
             rows[45:47]   = comp(brunnette)[0:2]
             rows[47:56]   = comp(brunnette)[12:21]
             
             rows[63:84]   = comp(venus)[0:21]
-            rows[84:86]   = reverse(list("AT"))
+            rows[84:86]   = reverse(list("CC"))
             rows[86:96]   = comp(brunnette)[2:12]
             rows[96:105]  = reverse(list("TCGTTGTAT")) 
             rows[108:110] = comp(brunnette)[0:2]
             rows[110:119] = comp(brunnette)[12:21]  
                       
             rows[126:147] = comp(juno)[0:21]
-            rows[147:149] = reverse(list("AT"))
+            rows[147:149] = reverse(list("CC"))
             rows[149:159] = comp(brunnette)[2:12]
             rows[159:168] = reverse(list("TCGTTGTAT")) 
             rows[171:173] = comp(brunnette)[0:2]
             rows[173:182] = comp(brunnette)[12:21]          
 
 
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD3.json")
-    if numRows == 15 and (numCols == 147 or numCols == 168) and jsonfile == "MD3.json":
+    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 168) and jsonfile == "MD0.json")
+    if numRows == 15 and (numCols == 168) and jsonfile == "MD0.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
             rows[0:21]    = rc(brunnette)[0:21]
