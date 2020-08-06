@@ -159,7 +159,7 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
         rowSeq[8] = list("TCTTGTCAAGATTACTCTTGATGAAGGTCAGCCAGCCTATGCGCCTGGTCTGTACACCGTCAAGCCTTATTCACTGAATGARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
         rowSeq[9] = list("TGGCCTATAAGTAATGGGTTTAGTTGCATTGTTTCGACGAGTAAGTCACTTATTCCGAACTGCCACATGTCTGGTCCGCGTRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
         
-    #reverse()
+    #rev()
     brunnette     = list("TTCCTCTACCACCTACATCAC")
     apollo        = list("CCTACTGACTTTATCCACCGA")
     minerva       = list("CCTAATTACGATGCTACTCCC")
@@ -168,146 +168,147 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
     neptune       = list("CGACTCTCATTCTCTAACAGC") 
     venus         = list("CGTACAACCTTGACCTTACCT")                               
     
+    #print('Neptune', ''.join(neptune), ''.join(rc(neptune)), ''.join(rev(neptune)), ''.join(comp(neptune))) #checking neptune is working
+    
     # numCols = 147 <=> docked || 168 undocked
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 168) and jsonfile == "MD0.json")
-    if numRows == 15 and (numCols == 168) and jsonfile == "MD0.json":
+    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 147) and jsonfile == "MD0.json")
+    if numRows == 16 and (numCols == 147) and jsonfile == "MD0.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
-            rows[0:21]    = rc(neptune)[0:21]
-            rows[21:42]   = rc(apollo)[0:21]
-            rows[49:70]   = rc(minerva)[0:21]
-            rows[70:91]   = rc(venus)[0:21]
-            rows[105:126] = rc(jupiter)[0:21]
-            rows[126:147] = rc(juno)[0:21]                        
+            rowSeq[rows][0:21]    = rc(neptune)[0:21]
+            rowSeq[rows][21:42]   = rc(apollo)[0:21]
+            rowSeq[rows][49:70]   = rc(minerva)[0:21]
+            rowSeq[rows][70:91]   = rc(venus)[0:21]
+            rowSeq[rows][105:126] = rc(jupiter)[0:21]
+            rowSeq[rows][126:147] = rc(juno)[0:21]                        
         for rows in [11,13,15]: #odd
-            rows[0:21]    = comp(apollo)[0:21]
-            rows[21:42]   = comp(neptune)[0:21] 
-            rows[49:70]   = comp(venus)[0:21]
-            rows[70:91]   = comp(minerva)[0:21]
-            rows[105:126] = comp(juno)[0:21]
-            rows[126:147] = comp(jupiter)[0:21]                
+            rowSeq[rows][0:21]    = comp(apollo)[0:21]
+            rowSeq[rows][21:42]   = comp(neptune)[0:21] 
+            rowSeq[rows][49:70]   = comp(venus)[0:21]
+            rowSeq[rows][70:91]   = comp(minerva)[0:21]
+            rowSeq[rows][105:126] = comp(juno)[0:21]
+            rowSeq[rows][126:147] = comp(jupiter)[0:21]                
         
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 189) and jsonfile == "MD1.json")
-    if numRows == 15 and (numCols == 189) and jsonfile == "MD1.json":
+    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 189) and jsonfile == "MD1.json")
+    if numRows == 16 and (numCols == 189) and jsonfile == "MD1.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
-            rows[0:9]     = list("AGTCTTAGC")
-            rows[9:19]    = rc(neptune)[2:12]
-            rows[19:21]   = list("AT")
-            rows[21:42]   = rc(apollo)[0:21]
-            rows[45:54]   = rc(neptune)[12:21]
-            rows[54:56]   = rc(neptune)[0:2]                        
+            rowSeq[rows][0:9]     = list("AGTCTTAGC")          
+            rowSeq[rows][9:19]    = rc(neptune[2:12])
+            rowSeq[rows][19:21]   = list("AT")
+            rowSeq[rows][21:42]   = rc(apollo)[0:21]
+            rowSeq[rows][45:54]   = rc(neptune[12:21])
+            rowSeq[rows][54:56]   = rc(neptune[0:2])                        
 
-            rows[63:72]   = list("TTGTGTAGG")
-            rows[72:84]   = rc(minerva)[2:12]
-            rows[84:86]   = list("AT")
-            rows[86:107]  = rc(venus)[0:21]
-            rows[108:110]   = rc(minerva)[0:2]   
-            rows[110:119]   = rc(minerva)[12:21]            
+            rowSeq[rows][63:72]   = list("TTGTGTAGG")
+            rowSeq[rows][72:82]   = rc(minerva[2:12])
+            rowSeq[rows][82:84]   = list("AT")
+            rowSeq[rows][84:105]  = rc(venus)[0:21]
+            rowSeq[rows][108:110] = rc(minerva[0:2])   
+            rowSeq[rows][110:119] = rc(minerva[12:21])            
             
-            rows[126:135] = list("ATGGTAAGA")
-            rows[135:145] = rc(jupiter)[2:12]
-            rows[145:147] = list("AT")
-            rows[147:168] = rc(juno)[0:21]
-            rows[171:173] = rc(jupiter)[0:2]            
-            rows[173:182] = rc(jupiter)[12:21]
+            rowSeq[rows][126:135] = list("ATGGTAAGA")
+            rowSeq[rows][135:145] = rc(jupiter[2:12])
+            rowSeq[rows][145:147] = list("AT")
+            rowSeq[rows][147:168] = rc(juno[0:21])
+            rowSeq[rows][171:173] = rc(jupiter[0:2])            
+            rowSeq[rows][173:182] = rc(jupiter[12:21])
+                       
+        for rows in [11,13,15]: #odd
+            rowSeq[rows][0:21]    = comp(apollo)[0:21]
+            rowSeq[rows][21:23]   = rev(list("AT"))
+            rowSeq[rows][23:33]   = comp(neptune)[2:12]
+            rowSeq[rows][33:42]   = rev(list("AGTCTTAGC")) 
+            rowSeq[rows][45:47]   = comp(neptune)[0:2]
+            rowSeq[rows][47:56]   = comp(neptune)[12:21]
+            
+            rowSeq[rows][63:84]   = comp(venus)[0:21]
+            rowSeq[rows][84:86]   = rev(list("AT"))
+            rowSeq[rows][86:96]   = comp(minerva)[2:12]
+            rowSeq[rows][96:105]  = rev(list("TTGTGTAGG")) 
+            rowSeq[rows][108:110] = comp(minerva)[0:2]
+            rowSeq[rows][110:119] = comp(minerva)[12:21] 
+                      
+            rowSeq[rows][126:147] = comp(juno)[0:21]
+            rowSeq[rows][147:149] = rev(list("AT"))
+            rowSeq[rows][149:159] = comp(jupiter)[2:12]
+            rowSeq[rows][159:168] = rev(list("ATGGTAAGA")) 
+            rowSeq[rows][171:173] = comp(jupiter)[0:2]
+            rowSeq[rows][173:182] = comp(jupiter)[12:21]
+
+    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 189) and jsonfile == "MD2.json")
+    if numRows == 16 and (numCols == 189) and jsonfile == "MD2.json":
+        print('WARNING: Using specified tether seqeunces')
+        for rows in [10,12,14]: #even
+            rowSeq[rows][0:9]     = list("TCGTTGTAT")
+            rowSeq[rows][9:19]    = rc(brunnette[2:12])
+            rowSeq[rows][19:21]   = list("CC")
+            rowSeq[rows][21:42]   = rc(apollo)[0:21]
+            rowSeq[rows][45:54]   = rc(brunnette[12:21])
+            rowSeq[rows][54:56]   = rc(brunnette[0:2])                        
+
+            rowSeq[rows][63:72]   = list("TCGTTGTAT")
+            rowSeq[rows][72:82]   = rc(brunnette[2:12])
+            rowSeq[rows][82:84]   = list("CC")
+            rowSeq[rows][84:105]  = rc(venus)[0:21]
+            rowSeq[rows][108:110] = rc(brunnette[0:2])   
+            rowSeq[rows][110:119] = rc(brunnette[12:21])            
+            
+            rowSeq[rows][126:135] = list("TCGTTGTAT")
+            rowSeq[rows][135:145] = rc(brunnette[2:12])
+            rowSeq[rows][145:147] = list("CC")
+            rowSeq[rows][147:168] = rc(juno)[0:21]
+            rowSeq[rows][171:173] = rc(brunnette[0:2])            
+            rowSeq[rows][173:182] = rc(brunnette[12:21])
 
                        
         for rows in [11,13,15]: #odd
-            rows[0:21]    = comp(apollo)[0:21]
-            rows[21:23]   = reverse(list("AT"))
-            rows[23:33]   = comp(neptune)[2:12]
-            rows[33:42]   = reverse(list("AGTCTTAGC")) 
-            rows[45:47]   = comp(neptune)[0:2]
-            rows[47:56]   = comp(neptune)[12:21]
+            rowSeq[rows][0:21]    = comp(apollo)[0:21]
+            rowSeq[rows][21:23]   = rev(list("CC"))
+            rowSeq[rows][23:33]   = comp(brunnette)[2:12]
+            rowSeq[rows][33:42]   = rev(list("TCGTTGTAT")) 
+            rowSeq[rows][45:47]   = comp(brunnette)[0:2]
+            rowSeq[rows][47:56]   = comp(brunnette)[12:21]
             
-            rows[63:84]   = comp(venus)[0:21]
-            rows[84:86]   = reverse(list("AT"))
-            rows[86:96]   = comp(minerva)[2:12]
-            rows[96:105]  = reverse(list("TTGTGTAGG")) 
-            rows[108:110] = comp(minerva)[0:2]
-            rows[110:119] = comp(minerva)[12:21]  
+            rowSeq[rows][63:84]   = comp(venus)[0:21]
+            rowSeq[rows][84:86]   = rev(list("CC"))
+            rowSeq[rows][86:96]   = comp(brunnette)[2:12]
+            rowSeq[rows][96:105]  = rev(list("TCGTTGTAT")) 
+            rowSeq[rows][108:110] = comp(brunnette)[0:2]
+            rowSeq[rows][110:119] = comp(brunnette)[12:21]  
                       
-            rows[126:147] = comp(juno)[0:21]
-            rows[147:149] = reverse(list("AT"))
-            rows[149:159] = comp(jupiter)[2:12]
-            rows[159:168] = reverse(list("ATGGTAAGA")) 
-            rows[171:173] = comp(jupiter)[0:2]
-            rows[173:182] = comp(jupiter)[12:21]  
+            rowSeq[rows][126:147] = comp(juno)[0:21]
+            rowSeq[rows][147:149] = rev(list("CC"))
+            rowSeq[rows][149:159] = comp(brunnette)[2:12]
+            rowSeq[rows][159:168] = rev(list("TCGTTGTAT")) 
+            rowSeq[rows][171:173] = comp(brunnette)[0:2]
+            rowSeq[rows][173:182] = comp(brunnette)[12:21]          
 
 
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 189) and jsonfile == "MD2.json")
-    if numRows == 15 and (numCols == 189) and jsonfile == "MD2.json":
+    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 147) and jsonfile == "MD3.json")
+    if numRows == 16 and (numCols == 147) and jsonfile == "MD3.json":
         print('WARNING: Using specified tether seqeunces')
         for rows in [10,12,14]: #even
-            rows[0:9]     = list("TCGTTGTAT")
-            rows[9:19]    = rc(brunnette)[2:12]
-            rows[19:21]   = list("CC")
-            rows[21:42]   = rc(apollo)[0:21]
-            rows[45:54]   = rc(brunnette)[12:21]
-            rows[54:56]   = rc(brunnette)[0:2]                        
-
-            rows[63:72]   = list("TCGTTGTAT")
-            rows[72:84]   = rc(brunnette)[2:12]
-            rows[84:86]   = list("CC")
-            rows[86:107]  = rc(venus)[0:21]
-            rows[108:110]   = rc(brunnette)[0:2]   
-            rows[110:119]   = rc(brunnette)[12:21]            
-            
-            rows[126:135] = list("TCGTTGTAT")
-            rows[135:145] = rc(brunnette)[2:12]
-            rows[145:147] = list("CC")
-            rows[147:168] = rc(juno)[0:21]
-            rows[171:173] = rc(brunnette)[0:2]            
-            rows[173:182] = rc(brunnette)[12:21]
-
-                       
+            rowSeq[rows][0:21]    = rc(brunnette)[0:21]
+            rowSeq[rows][21:42]   = rc(apollo)[0:21]
+            rowSeq[rows][49:70]   = rc(brunnette)[0:21]
+            rowSeq[rows][70:91]   = rc(venus)[0:21]
+            rowSeq[rows][105:126] = rc(brunnette)[0:21]
+            rowSeq[rows][126:147] = rc(juno)[0:21]                        
         for rows in [11,13,15]: #odd
-            rows[0:21]    = comp(apollo)[0:21]
-            rows[21:23]   = reverse(list("CC"))
-            rows[23:33]   = comp(brunnette)[2:12]
-            rows[33:42]   = reverse(list("TCGTTGTAT")) 
-            rows[45:47]   = comp(brunnette)[0:2]
-            rows[47:56]   = comp(brunnette)[12:21]
-            
-            rows[63:84]   = comp(venus)[0:21]
-            rows[84:86]   = reverse(list("CC"))
-            rows[86:96]   = comp(brunnette)[2:12]
-            rows[96:105]  = reverse(list("TCGTTGTAT")) 
-            rows[108:110] = comp(brunnette)[0:2]
-            rows[110:119] = comp(brunnette)[12:21]  
-                      
-            rows[126:147] = comp(juno)[0:21]
-            rows[147:149] = reverse(list("CC"))
-            rows[149:159] = comp(brunnette)[2:12]
-            rows[159:168] = reverse(list("TCGTTGTAT")) 
-            rows[171:173] = comp(brunnette)[0:2]
-            rows[173:182] = comp(brunnette)[12:21]          
-
-
-    print(numRows, numCols, jsonfile, numRows == 15 and (numCols == 168) and jsonfile == "MD3.json")
-    if numRows == 15 and (numCols == 168) and jsonfile == "MD3.json":
-        print('WARNING: Using specified tether seqeunces')
-        for rows in [10,12,14]: #even
-            rows[0:21]    = rc(brunnette)[0:21]
-            rows[21:42]   = rc(apollo)[0:21]
-            rows[49:70]   = rc(brunnette)[0:21]
-            rows[70:91]   = rc(venus)[0:21]
-            rows[105:126] = rc(brunnette)[0:21]
-            rows[126:147] = rc(juno)[0:21]                        
-        for rows in [11,13,15]: #odd
-            rows[0:21]    = comp(apollo)[0:21]
-            rows[21:42]   = comp(brunnette)[0:21] 
-            rows[49:70]   = comp(venus)[0:21]
-            rows[70:91]   = comp(brunnette)[0:21]
-            rows[105:126] = comp(juno)[0:21]
-            rows[126:147] = comp(brunnette)[0:21]   
+            rowSeq[rows][0:21]    = comp(apollo)[0:21]
+            rowSeq[rows][21:42]   = comp(brunnette)[0:21] 
+            rowSeq[rows][49:70]   = comp(venus)[0:21]
+            rowSeq[rows][70:91]   = comp(brunnette)[0:21]
+            rowSeq[rows][105:126] = comp(juno)[0:21]
+            rowSeq[rows][126:147] = comp(brunnette)[0:21]   
                     
     
     return rowSeq
     
 def comp(seq):
-    return [comp(base) for base in seq]
+    seq1 = seq.copy()
+    return [baseComp(base) for base in seq1]
 
  
 def baseComp(base):
@@ -320,13 +321,18 @@ def baseComp(base):
     elif base == 'G':
         return 'C'
     elif base == 'C':
-        return 'A'
+        return 'G'
     else:
         print('FAILED')
         return ''                
 
 #reverse complement
 def rc(seq):
-    return reverse(comp(seq))
+    return rev(comp(seq))
+    
+def rev(ls):
+    cl = ls.copy()
+    cl.reverse()
+    return cl
     
 genSeqFile(jsonfile, scaffile, scafperm)

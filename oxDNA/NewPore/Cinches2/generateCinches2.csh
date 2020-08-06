@@ -17,7 +17,7 @@ foreach l ( 3 )
     cp $simPath/oxDNA1_sequence_dependent_parameters.txt .
     
     #generate sequences
-    @ P = (242 - $l)    
+    @ P = (242 - 120)    
     python3 $oxPath/MyScripts/generateSeqFile.py cinch$l*.json $simPath/p7249.txt $P
         
     #json to oxDNA

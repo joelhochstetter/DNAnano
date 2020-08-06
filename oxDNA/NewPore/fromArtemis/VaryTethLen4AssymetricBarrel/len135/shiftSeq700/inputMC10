@@ -1,4 +1,0 @@
-trajectory_file = trajectoryMC10.dat
-log_file = log10.dat
-energy_file = energy10.dat
-seed = 10
