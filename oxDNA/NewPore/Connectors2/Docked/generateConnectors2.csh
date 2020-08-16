@@ -13,8 +13,8 @@ cp poreConnectorsDesign2DockedPartialConnect.json MD1.json
 cp poreConnectorsDesign2DockedPartialConnect.json MD2.json
 
 #set-up sequences
-#foreach l ( 0 1 2 3 )
-foreach l ( 0 )
+foreach l ( 0 1 2 3 )
+#foreach l ( 0 )
     mkdir MD$l
     cp MD$l.json MD$l
     cd MD$l

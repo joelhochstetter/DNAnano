@@ -13,8 +13,7 @@ cp poreConnectorsDesign2Undocked.json MD3u.json
 
 
 #set-up sequences
-foreach l ( 0 )
-#foreach l ( 0 1 2 3 )
+foreach l ( 0 1 2 3 )
     mkdir MD$l
     cp MD$l'u.json' MD$l
     cd MD$l

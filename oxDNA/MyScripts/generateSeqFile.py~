@@ -64,7 +64,7 @@ def genSeqFile(jsonfile, scaffile, scafperm):
     #generate strands in sqs format to be parsed by oxDNA
     rowSeq = [list("R" * numCols) for idx in range(numRows)]
     
-    rowSeq = customSeqs(rowSeq, numRows, numCols, jsonfile)
+    rowSeq = customSeqsNew(rowSeq, numRows, numCols, jsonfile)
     
     
     #set longest strand with some scaffold permutation
@@ -157,8 +157,9 @@ def setShortScaf(rowSeq, scaf3End, scaf5End, longScaf):
     return rowSeq
     
 
+
 def customSeqs(rowSeq, numRows, numCols, jsonfile):
-    print(numRows, numCols, jsonfile, numRows == 10 and numCols == 147 and jsonfile == "cinch6_clen42x3_spacer0_one_sided.json")
+    print(numRows, numCols, jsonfile)
     if numRows == 10 and numCols == 147 and jsonfile == "cinch6_clen42x3_spacer0_one_sided.json":
         print('WARNING: Using specified tether seqeunces')
         rowSeq[6] = list("CCTGTTGGAGTTTGCTTCCGGTCTGGTTCGCTTTGAAGCTCGAATTAAAACGCGATATTTGCCATCCGCAAAAATGACCTCRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR") 
@@ -169,11 +170,10 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
     #print('Neptune', ''.join(neptune), ''.join(rc(neptune)), ''.join(rev(neptune)), ''.join(comp(neptune))) #checking neptune is working
     
     # numCols = 147 <=> docked || 168 undocked
-    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 147) and jsonfile == "MD0.json")
+
     if numRows == 16 and numCols == 147 and jsonfile == "MD0.json":
         print('WARNING: Using specified tether seqeunces')
         rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[neptune,minerva,jupiter])            
-
 
     if numRows == 16 and numCols == 168 and jsonfile == "MD0u.json":
         print('WARNING: Using specified tether seqeunces')
@@ -182,27 +182,38 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
         #From pore
         rowSeq = fixConnectorUndocked(rowSeq, [0,140], [neptune,minerva,jupiter], [1,0,1,1,0,0], [2,2,3,2,2,1])
 
-
-    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 189) and jsonfile == "MD1.json")
-    if numRows == 16 and (numCols == 189) and jsonfile == "MD1.json":
+    if numRows == 16 and numCols == 189 and jsonfile == "MD1.json":
         print('WARNING: Using specified tether seqeunces')
         rowSeq = addConnectors(rowSeq,[0,63,126],[apollo,venus,juno],[neptune,minerva,jupiter])
         rowSeq = fixPartialConnect(rowSeq,[0,63,126],[neptune,minerva,jupiter],[list("AGTCTTAGC"),list("TTGTGTAGG"),list("ATGGTAAGA")],[list("AT"),list("AT"),list("AT")])
 
+    if numRows == 16 and numCols == 168 and jsonfile == "MD1u.json":
+        print('WARNING: Using specified tether seqeunces')
+        #From barrel
+        rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[neptune,minerva,jupiter])
+        rowSeq = fixPartialConnect(rowSeq,[0,49,105],[],[list("AGTCTTAGC"),list("TTGTGTAGG"),list("ATGGTAAGA")],[list("AT"),list("AT"),list("AT")])        
+        #From pore
+        rowSeq = fixConnectorUndocked(rowSeq, [0,140], [neptune,minerva,jupiter], [1,0,1,1,0,0], [2,2,3,2,2,1])
 
-    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 189) and jsonfile == "MD2.json")
-    if numRows == 16 and (numCols == 189) and jsonfile == "MD2.json":
+    if numRows == 16 and numCols == 189 and jsonfile == "MD2.json":
         print('WARNING: Using specified tether seqeunces')
         rowSeq = addConnectors(rowSeq,[0,63,126],[apollo,venus,juno],[brunnette,brunnette,brunnette])
         rowSeq = fixPartialConnect(rowSeq,[0,63,126],[brunnette,brunnette,brunnette],[list("TCGTTGTAT"),list("TCGTTGTAT"),list("TCGTTGTAT")],[list("CC"),list("CC"),list("CC")])
 
-    print(numRows, numCols, jsonfile, numRows == 16 and numCols == 147 and jsonfile == "MD3.json")
-    if numRows == 16 and (numCols == 147) and jsonfile == "MD3.json":
+    if numRows == 16 and numCols == 168 and jsonfile == "MD2u.json":
+        print('WARNING: Using specified tether seqeunces')
+        #From barrel
+        rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[brunnette,brunnette,brunnette])
+        rowSeq = fixPartialConnect(rowSeq,[0,49,105],[],[list("TCGTTGTAT"),list("TCGTTGTAT"),list("TCGTTGTAT")],[list("CC"),list("CC"),list("CC")])        
+        #From pore
+        rowSeq = fixConnectorUndocked(rowSeq, [0,140], [brunnette,brunnette,brunnette], [1,0,1,1,0,0], [2,2,3,2,2,1])
+
+    if numRows == 16 and numCols == 147 and jsonfile == "MD3.json":
         print('WARNING: Using specified tether seqeunces')
         #from barrel
         rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[brunnette,brunnette,brunnette])
         
-    if numRows == 16 and (numCols == 147) and jsonfile == "MD3u.json":
+    if numRows == 16 and numCols == 168 and jsonfile == "MD3u.json":
         print('WARNING: Using specified tether seqeunces')
         #from barrel
         rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[brunnette,brunnette,brunnette])
@@ -211,8 +222,6 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
     
     return rowSeq
     
-    
-
 
 #add's connectors in full
 #levelIdx: is the starting index of the connector linker short sequence strand
@@ -222,24 +231,28 @@ def addConnectors(rowSeq, levelIdx, barrelSeq, poreSeq):
             rowSeq[rows][levelIdx[i]+0 :levelIdx[i]+21] = rc(poreSeq[i])[0:21]
             rowSeq[rows][levelIdx[i]+21:levelIdx[i]+42] = rc(barrelSeq[i])[0:21]
         for rows in [11,13,15]: #odd
-            rowSeq[rows][levelIdx[0]+0 :levelIdx[0]+21] = comp(barrelSeq[i])[0:21]
-            rowSeq[rows][levelIdx[0]+21:levelIdx[0]+42] = comp(poreSeq[i])[0:21] 
+            rowSeq[rows][levelIdx[i]+0 :levelIdx[i]+21] = comp(barrelSeq[i])[0:21]
+            rowSeq[rows][levelIdx[i]+21:levelIdx[i]+42] = comp(poreSeq[i])[0:21] 
     return rowSeq
 
-            
+    
 #for partial connected sequences
+#if poreSeq = [] then only adds the frontSpacer and backSpacer DNA
 def fixPartialConnect(rowSeq,levelIdx,poreSeq,frontSpacer,backSpacer):
     for i in range(len(levelIdx)):
         for rows in [10,12,14]: #even
             rowSeq[rows][levelIdx[i]:levelIdx[i]+len(frontSpacer[i])]      = frontSpacer[i]
             rowSeq[rows][levelIdx[i]+21-len(backSpacer[i]):levelIdx[i]+21] = backSpacer[i]
-            rowSeq[rows][levelIdx[i]+45:levelIdx[i]+54] = rc(poreSeq[i][12:21])
-            rowSeq[rows][levelIdx[i]+54:levelIdx[i]+56] = rc(poreSeq[i][0:2])                         
+            if len(poreSeq) == len(levelIdx):
+                rowSeq[rows][levelIdx[i]+45:levelIdx[i]+47] = rc(poreSeq[i][0:2])
+                rowSeq[rows][levelIdx[i]+47:levelIdx[i]+56] = rc(poreSeq[i][12:21])  
+        
         for rows in [11,13,15]: #odd
-            rowSeq[rows][levelIdx[i]+21:levelIdx[i]+len(backSpacer[i])]     = rev(backSpacer[i])
+            rowSeq[rows][levelIdx[i]+21:levelIdx[i]+21+len(backSpacer[i])]  = rev(backSpacer[i])
             rowSeq[rows][levelIdx[i]+42-len(frontSpacer[i]):levelIdx[i]+42] = rev(frontSpacer[i])
-            rowSeq[rows][levelIdx[i]+45:levelIdx[i]+47] = comp(poreSeq[i])[0:2]
-            rowSeq[rows][levelIdx[i]+47:levelIdx[i]+56] = comp(poreSeq[i])[12:21]            
+            if len(poreSeq) == len(levelIdx):            
+                rowSeq[rows][levelIdx[i]+45:levelIdx[i]+47] = comp(poreSeq[i])[0:2]
+                rowSeq[rows][levelIdx[i]+47:levelIdx[i]+56] = comp(poreSeq[i])[12:21]        
     return rowSeq
 
 
@@ -252,9 +265,9 @@ def fixConnectorUndocked(rowSeq, startPoints, poreSeq, connClassLeft, connClassR
             rowSeq[rows][startPoints[cc]:21+startPoints[cc]] = rc(poreSeq[connClasses[cc][rows]])[0:21]
         for rows in [1,3,5]:
             rowSeq[rows][startPoints[cc]:21+startPoints[cc]] = comp(poreSeq[connClasses[cc][rows]])[0:21] 
-   return rowSeq
+    return rowSeq
 
-    
+
 def comp(seq):
     seq1 = seq.copy()
     return [baseComp(base) for base in seq1]
