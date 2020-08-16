@@ -24,6 +24,13 @@ jsonfile = sys.argv[1]
 scaffile = sys.argv[2]
 scafperm = int(sys.argv[3])
 
+brunnette     = list("TTCCTCTACCACCTACATCAC")
+apollo        = list("CCTACTGACTTTATCCACCGA")
+minerva       = list("CCTAATTACGATGCTACTCCC")
+jupiter       = list("GCTCTGCAATCAACTTATCCC")      
+juno          = list("CGTCCCCTTTTAACCCTAGAA")          
+neptune       = list("CGACTCTCATTCTCTAACAGC") 
+venus         = list("CGTACAACCTTGACCTTACCT")  
 
 def genSeqFile(jsonfile, scaffile, scafperm):
 
@@ -159,152 +166,94 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
         rowSeq[8] = list("TCTTGTCAAGATTACTCTTGATGAAGGTCAGCCAGCCTATGCGCCTGGTCTGTACACCGTCAAGCCTTATTCACTGAATGARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
         rowSeq[9] = list("TGGCCTATAAGTAATGGGTTTAGTTGCATTGTTTCGACGAGTAAGTCACTTATTCCGAACTGCCACATGTCTGGTCCGCGTRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
         
-    #rev()
-    brunnette     = list("TTCCTCTACCACCTACATCAC")
-    apollo        = list("CCTACTGACTTTATCCACCGA")
-    minerva       = list("CCTAATTACGATGCTACTCCC")
-    jupiter       = list("GCTCTGCAATCAACTTATCCC")      
-    juno          = list("CGTCCCCTTTTAACCCTAGAA")          
-    neptune       = list("CGACTCTCATTCTCTAACAGC") 
-    venus         = list("CGTACAACCTTGACCTTACCT")                               
-    
     #print('Neptune', ''.join(neptune), ''.join(rc(neptune)), ''.join(rev(neptune)), ''.join(comp(neptune))) #checking neptune is working
     
     # numCols = 147 <=> docked || 168 undocked
     print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 147) and jsonfile == "MD0.json")
-    if numRows == 16 and (numCols == 147) and jsonfile == "MD0.json":
+    if numRows == 16 and numCols == 147 and jsonfile == "MD0.json":
         print('WARNING: Using specified tether seqeunces')
-        for rows in [10,12,14]: #even
-            rowSeq[rows][0:21]    = rc(neptune)[0:21]
-            rowSeq[rows][21:42]   = rc(apollo)[0:21]
-            rowSeq[rows][49:70]   = rc(minerva)[0:21]
-            rowSeq[rows][70:91]   = rc(venus)[0:21]
-            rowSeq[rows][105:126] = rc(jupiter)[0:21]
-            rowSeq[rows][126:147] = rc(juno)[0:21]                        
-        for rows in [11,13,15]: #odd
-            rowSeq[rows][0:21]    = comp(apollo)[0:21]
-            rowSeq[rows][21:42]   = comp(neptune)[0:21] 
-            rowSeq[rows][49:70]   = comp(venus)[0:21]
-            rowSeq[rows][70:91]   = comp(minerva)[0:21]
-            rowSeq[rows][105:126] = comp(juno)[0:21]
-            rowSeq[rows][126:147] = comp(jupiter)[0:21]                
-        
+        rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[neptune,minerva,jupiter])            
+
+
+    if numRows == 16 and numCols == 168 and jsonfile == "MD0u.json":
+        print('WARNING: Using specified tether seqeunces')
+        #From barrel
+        rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[neptune,minerva,jupiter])
+        #From pore
+        rowSeq = fixConnectorUndocked(rowSeq, [0,140], [neptune,minerva,jupiter], [1,0,1,1,0,0], [2,2,3,2,2,1])
+
+
     print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 189) and jsonfile == "MD1.json")
     if numRows == 16 and (numCols == 189) and jsonfile == "MD1.json":
         print('WARNING: Using specified tether seqeunces')
-        for rows in [10,12,14]: #even
-            rowSeq[rows][0:9]     = list("AGTCTTAGC")          
-            rowSeq[rows][9:19]    = rc(neptune[2:12])
-            rowSeq[rows][19:21]   = list("AT")
-            rowSeq[rows][21:42]   = rc(apollo)[0:21]
-            rowSeq[rows][45:54]   = rc(neptune[12:21])
-            rowSeq[rows][54:56]   = rc(neptune[0:2])                        
+        rowSeq = addConnectors(rowSeq,[0,63,126],[apollo,venus,juno],[neptune,minerva,jupiter])
+        rowSeq = fixPartialConnect(rowSeq,[0,63,126],[neptune,minerva,jupiter],[list("AGTCTTAGC"),list("TTGTGTAGG"),list("ATGGTAAGA")],[list("AT"),list("AT"),list("AT")])
 
-            rowSeq[rows][63:72]   = list("TTGTGTAGG")
-            rowSeq[rows][72:82]   = rc(minerva[2:12])
-            rowSeq[rows][82:84]   = list("AT")
-            rowSeq[rows][84:105]  = rc(venus)[0:21]
-            rowSeq[rows][108:110] = rc(minerva[0:2])   
-            rowSeq[rows][110:119] = rc(minerva[12:21])            
-            
-            rowSeq[rows][126:135] = list("ATGGTAAGA")
-            rowSeq[rows][135:145] = rc(jupiter[2:12])
-            rowSeq[rows][145:147] = list("AT")
-            rowSeq[rows][147:168] = rc(juno[0:21])
-            rowSeq[rows][171:173] = rc(jupiter[0:2])            
-            rowSeq[rows][173:182] = rc(jupiter[12:21])
-                       
-        for rows in [11,13,15]: #odd
-            rowSeq[rows][0:21]    = comp(apollo)[0:21]
-            rowSeq[rows][21:23]   = rev(list("AT"))
-            rowSeq[rows][23:33]   = comp(neptune)[2:12]
-            rowSeq[rows][33:42]   = rev(list("AGTCTTAGC")) 
-            rowSeq[rows][45:47]   = comp(neptune)[0:2]
-            rowSeq[rows][47:56]   = comp(neptune)[12:21]
-            
-            rowSeq[rows][63:84]   = comp(venus)[0:21]
-            rowSeq[rows][84:86]   = rev(list("AT"))
-            rowSeq[rows][86:96]   = comp(minerva)[2:12]
-            rowSeq[rows][96:105]  = rev(list("TTGTGTAGG")) 
-            rowSeq[rows][108:110] = comp(minerva)[0:2]
-            rowSeq[rows][110:119] = comp(minerva)[12:21] 
-                      
-            rowSeq[rows][126:147] = comp(juno)[0:21]
-            rowSeq[rows][147:149] = rev(list("AT"))
-            rowSeq[rows][149:159] = comp(jupiter)[2:12]
-            rowSeq[rows][159:168] = rev(list("ATGGTAAGA")) 
-            rowSeq[rows][171:173] = comp(jupiter)[0:2]
-            rowSeq[rows][173:182] = comp(jupiter)[12:21]
 
     print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 189) and jsonfile == "MD2.json")
     if numRows == 16 and (numCols == 189) and jsonfile == "MD2.json":
         print('WARNING: Using specified tether seqeunces')
-        for rows in [10,12,14]: #even
-            rowSeq[rows][0:9]     = list("TCGTTGTAT")
-            rowSeq[rows][9:19]    = rc(brunnette[2:12])
-            rowSeq[rows][19:21]   = list("CC")
-            rowSeq[rows][21:42]   = rc(apollo)[0:21]
-            rowSeq[rows][45:54]   = rc(brunnette[12:21])
-            rowSeq[rows][54:56]   = rc(brunnette[0:2])                        
+        rowSeq = addConnectors(rowSeq,[0,63,126],[apollo,venus,juno],[brunnette,brunnette,brunnette])
+        rowSeq = fixPartialConnect(rowSeq,[0,63,126],[brunnette,brunnette,brunnette],[list("TCGTTGTAT"),list("TCGTTGTAT"),list("TCGTTGTAT")],[list("CC"),list("CC"),list("CC")])
 
-            rowSeq[rows][63:72]   = list("TCGTTGTAT")
-            rowSeq[rows][72:82]   = rc(brunnette[2:12])
-            rowSeq[rows][82:84]   = list("CC")
-            rowSeq[rows][84:105]  = rc(venus)[0:21]
-            rowSeq[rows][108:110] = rc(brunnette[0:2])   
-            rowSeq[rows][110:119] = rc(brunnette[12:21])            
-            
-            rowSeq[rows][126:135] = list("TCGTTGTAT")
-            rowSeq[rows][135:145] = rc(brunnette[2:12])
-            rowSeq[rows][145:147] = list("CC")
-            rowSeq[rows][147:168] = rc(juno)[0:21]
-            rowSeq[rows][171:173] = rc(brunnette[0:2])            
-            rowSeq[rows][173:182] = rc(brunnette[12:21])
-
-                       
-        for rows in [11,13,15]: #odd
-            rowSeq[rows][0:21]    = comp(apollo)[0:21]
-            rowSeq[rows][21:23]   = rev(list("CC"))
-            rowSeq[rows][23:33]   = comp(brunnette)[2:12]
-            rowSeq[rows][33:42]   = rev(list("TCGTTGTAT")) 
-            rowSeq[rows][45:47]   = comp(brunnette)[0:2]
-            rowSeq[rows][47:56]   = comp(brunnette)[12:21]
-            
-            rowSeq[rows][63:84]   = comp(venus)[0:21]
-            rowSeq[rows][84:86]   = rev(list("CC"))
-            rowSeq[rows][86:96]   = comp(brunnette)[2:12]
-            rowSeq[rows][96:105]  = rev(list("TCGTTGTAT")) 
-            rowSeq[rows][108:110] = comp(brunnette)[0:2]
-            rowSeq[rows][110:119] = comp(brunnette)[12:21]  
-                      
-            rowSeq[rows][126:147] = comp(juno)[0:21]
-            rowSeq[rows][147:149] = rev(list("CC"))
-            rowSeq[rows][149:159] = comp(brunnette)[2:12]
-            rowSeq[rows][159:168] = rev(list("TCGTTGTAT")) 
-            rowSeq[rows][171:173] = comp(brunnette)[0:2]
-            rowSeq[rows][173:182] = comp(brunnette)[12:21]          
-
-
-    print(numRows, numCols, jsonfile, numRows == 16 and (numCols == 147) and jsonfile == "MD3.json")
+    print(numRows, numCols, jsonfile, numRows == 16 and numCols == 147 and jsonfile == "MD3.json")
     if numRows == 16 and (numCols == 147) and jsonfile == "MD3.json":
         print('WARNING: Using specified tether seqeunces')
-        for rows in [10,12,14]: #even
-            rowSeq[rows][0:21]    = rc(brunnette)[0:21]
-            rowSeq[rows][21:42]   = rc(apollo)[0:21]
-            rowSeq[rows][49:70]   = rc(brunnette)[0:21]
-            rowSeq[rows][70:91]   = rc(venus)[0:21]
-            rowSeq[rows][105:126] = rc(brunnette)[0:21]
-            rowSeq[rows][126:147] = rc(juno)[0:21]                        
-        for rows in [11,13,15]: #odd
-            rowSeq[rows][0:21]    = comp(apollo)[0:21]
-            rowSeq[rows][21:42]   = comp(brunnette)[0:21] 
-            rowSeq[rows][49:70]   = comp(venus)[0:21]
-            rowSeq[rows][70:91]   = comp(brunnette)[0:21]
-            rowSeq[rows][105:126] = comp(juno)[0:21]
-            rowSeq[rows][126:147] = comp(brunnette)[0:21]   
-                    
+        #from barrel
+        rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[brunnette,brunnette,brunnette])
+        
+    if numRows == 16 and (numCols == 147) and jsonfile == "MD3u.json":
+        print('WARNING: Using specified tether seqeunces')
+        #from barrel
+        rowSeq = addConnectors(rowSeq,[0,49,105],[apollo,venus,juno],[brunnette,brunnette,brunnette])
+        #from pore
+        rowSeq = fixConnectorUndocked(rowSeq, [0,140], [brunnette,brunnette,brunnette], [1,0,1,1,0,0], [2,2,3,2,2,1])
     
     return rowSeq
+    
+    
+
+
+#add's connectors in full
+#levelIdx: is the starting index of the connector linker short sequence strand
+def addConnectors(rowSeq, levelIdx, barrelSeq, poreSeq):
+    for i in range(len(levelIdx)):
+        for rows in [10,12,14]: #even
+            rowSeq[rows][levelIdx[i]+0 :levelIdx[i]+21] = rc(poreSeq[i])[0:21]
+            rowSeq[rows][levelIdx[i]+21:levelIdx[i]+42] = rc(barrelSeq[i])[0:21]
+        for rows in [11,13,15]: #odd
+            rowSeq[rows][levelIdx[0]+0 :levelIdx[0]+21] = comp(barrelSeq[i])[0:21]
+            rowSeq[rows][levelIdx[0]+21:levelIdx[0]+42] = comp(poreSeq[i])[0:21] 
+    return rowSeq
+
+            
+#for partial connected sequences
+def fixPartialConnect(rowSeq,levelIdx,poreSeq,frontSpacer,backSpacer):
+    for i in range(len(levelIdx)):
+        for rows in [10,12,14]: #even
+            rowSeq[rows][levelIdx[i]:levelIdx[i]+len(frontSpacer[i])]      = frontSpacer[i]
+            rowSeq[rows][levelIdx[i]+21-len(backSpacer[i]):levelIdx[i]+21] = backSpacer[i]
+            rowSeq[rows][levelIdx[i]+45:levelIdx[i]+54] = rc(poreSeq[i][12:21])
+            rowSeq[rows][levelIdx[i]+54:levelIdx[i]+56] = rc(poreSeq[i][0:2])                         
+        for rows in [11,13,15]: #odd
+            rowSeq[rows][levelIdx[i]+21:levelIdx[i]+len(backSpacer[i])]     = rev(backSpacer[i])
+            rowSeq[rows][levelIdx[i]+42-len(frontSpacer[i]):levelIdx[i]+42] = rev(frontSpacer[i])
+            rowSeq[rows][levelIdx[i]+45:levelIdx[i]+47] = comp(poreSeq[i])[0:2]
+            rowSeq[rows][levelIdx[i]+47:levelIdx[i]+56] = comp(poreSeq[i])[12:21]            
+    return rowSeq
+
+
+#fixes handle sequence coming out of pore
+def fixConnectorUndocked(rowSeq, startPoints, poreSeq, connClassLeft, connClassRght):
+    connClasses   = [connClassLeft,connClassRght]
+    poreSeq.append(list("R" * 21))    
+    for cc in range(2):
+        for rows in [0,2,4]:
+            rowSeq[rows][startPoints[cc]:21+startPoints[cc]] = rc(poreSeq[connClasses[cc][rows]])[0:21]
+        for rows in [1,3,5]:
+            rowSeq[rows][startPoints[cc]:21+startPoints[cc]] = comp(poreSeq[connClasses[cc][rows]])[0:21] 
+   return rowSeq
+
     
 def comp(seq):
     seq1 = seq.copy()

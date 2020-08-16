@@ -40,7 +40,8 @@ def fix_connectors():
         cn = c3n
         cc = c3c        
     elif numConn == 6:
-        Nvals = [6,7,8,15,16,17,24,25,26,33,34,35,42,34,38,39,40]
+        #Nvals = [6,7,8,15,16,17,24,25,26,33,34,35,42,43,44,51,52,53]
+        Nvals = [6,7,8]
         X = 21
         cn = c6n
         cc = c6c  
@@ -56,11 +57,11 @@ def fix_connectors():
 
     
 def getX(xc, r, n):
-    #return xc + r*np.cos((1-n)*np.pi/3)
-    return xc - r*np.cos(n*np.pi/3)    
+    return xc + r*np.cos((1-n)*np.pi/3)
+    #return xc - r*np.cos(n*np.pi/3)    
 
 def getY(yc, r, n):
-    #return yc + r*np.sin((1-n)*np.pi/3)
-    return yc + r*np.sin(n*np.pi/3)    
+    return yc + r*np.sin((1-n)*np.pi/3)
+    #return yc - r*np.sin(n*np.pi/3)    
     
 fix_connectors()

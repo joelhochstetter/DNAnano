@@ -16,9 +16,9 @@ cp relaxed.conf start.conf
 
 #introduce forces
 #tether fix
-foreach s (0.001 0.005 0.01 0.05 0.1 0.5 1.0 5.0 10.0) 
+foreach s (0.001 0.005 0.01 0.05) #0.1 0.5 1.0 5.0 10.0) 
     rm external.conf
-    python3 $oxPath/NewPore/Scripts/fix_tether.py prova.top external.conf 100 $s 21.14 69.96
+    #python3 $oxPath/NewPore/Scripts/fix_tether.py prova.top external.conf 100 $s 21.14 69.96
     python3 $oxPath/NewPore/Scripts/fix_connectors.py external.conf $numConn $s 10.57
     oxDNA $oxPath/NewPore/Scripts/runMD1e5
     mv log.dat 'log_init_teth'$s'.dat' 
@@ -42,5 +42,5 @@ foreach s (0.001 0.005 0.01 0.05 0.1 0.5 1.0 5.0 10.0)
 end
 """
 
-cp start.conf init.conf
+#cp start.conf init.conf
 
