@@ -1,18 +1,16 @@
 #!/bin/sh
 pwd
 
-set oxPath = ~/Documents/DNAnano/oxDNA
-set simPath = $oxPath/NewPore/Cinches2/
+set oxPath = ~/Documents/DNAnano/oxDNA/
+set simPath = $oxPath/NewPore/Connectors2/Undocked/
 
 cd $simPath
 
-
-#foreach l ( 0 1 2 3 4 5 6 )
-foreach l ( 3 )
-    cd cinch$l
-    tcsh $simPath/init_poreFree.csh
-    mkdir xv 
+#foreach l ( 0 1 2 3 )
+foreach l ( 1 2 3 )
+    cd MD$l
+    tcsh $simPath/init_poreConn2.csh
+    mkdir xv
     cp prova.top init.conf xv
     cd ..
-
 end
