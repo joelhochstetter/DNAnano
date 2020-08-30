@@ -8,12 +8,15 @@ set c  = $argv[2]
 
 set seed = $argv[3]
 
-set simPath = $oxPath/NewPore/Cinches2/
+set simPath = $oxPath/NewPore/Connectors2/Undocked/
 
 cd $simPath
+pwd 
+ls
 
+# @ c = ( $c - 1 )
 
-cd Cinches$c
+cd MD$c
 cp $simPath/inputMCnoSeed .
 tcsh $oxPath/NewPore/Scripts/seedOxRunfile.csh $seed
 pwd

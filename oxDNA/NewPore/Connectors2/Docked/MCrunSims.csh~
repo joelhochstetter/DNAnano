@@ -14,7 +14,7 @@ cd $simPath
 pwd 
 ls
 
-# @ c = ( $c - 1 )
+@ c = ( $c - 1 )
 
 cd MD$c
 cp $simPath/inputMCnoSeed .

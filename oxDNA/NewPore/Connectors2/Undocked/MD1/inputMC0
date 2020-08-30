@@ -40,3 +40,7 @@ print_energy_every = 1e5
 time_scale = linear
 external_forces = 1
 external_forces_file = external.conf
+trajectory_file = trajectoryMC0.dat
+log_file = log0.dat
+energy_file = energy0.dat
+seed = 0
