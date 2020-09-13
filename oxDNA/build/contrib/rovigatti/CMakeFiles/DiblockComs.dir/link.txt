@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,DiblockComs.so -o ../../../contrib/rovigatti/DiblockComs.so CMakeFiles/DiblockComs.dir/src/Observables/DiblockComs.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG -L/usr/local/glib/2.34.0/lib -shared -Wl,-soname,DiblockComs.so -o ../../../contrib/rovigatti/DiblockComs.so CMakeFiles/DiblockComs.dir/src/Observables/DiblockComs.cpp.o 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o"
   "../../../contrib/rovigatti/StarrConf.pdb"
   "../../../contrib/rovigatti/StarrConf.so"
-  "CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

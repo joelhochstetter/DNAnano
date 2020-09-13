@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/EmptyVolume.dir/src/Observables/EmptyVolume.cpp.o"
   "../../../contrib/rovigatti/EmptyVolume.pdb"
   "../../../contrib/rovigatti/EmptyVolume.so"
-  "CMakeFiles/EmptyVolume.dir/src/Observables/EmptyVolume.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

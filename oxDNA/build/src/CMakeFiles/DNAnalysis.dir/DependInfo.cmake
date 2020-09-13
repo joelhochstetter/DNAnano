@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/joelh/Documents/DNAnano/oxDNA/src/Backends/AnalysisBackend.cpp" "/home/joelh/Documents/DNAnano/oxDNA/build/src/CMakeFiles/DNAnalysis.dir/Backends/AnalysisBackend.cpp.o"
-  "/home/joelh/Documents/DNAnano/oxDNA/src/DNAnalysis.cpp" "/home/joelh/Documents/DNAnano/oxDNA/build/src/CMakeFiles/DNAnalysis.dir/DNAnalysis.cpp.o"
-  "/home/joelh/Documents/DNAnano/oxDNA/src/Managers/AnalysisManager.cpp" "/home/joelh/Documents/DNAnano/oxDNA/build/src/CMakeFiles/DNAnalysis.dir/Managers/AnalysisManager.cpp.o"
+  "/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/AnalysisBackend.cpp" "/project/DNAlienDynamics/DNAnano/oxDNA/build/src/CMakeFiles/DNAnalysis.dir/Backends/AnalysisBackend.cpp.o"
+  "/project/DNAlienDynamics/DNAnano/oxDNA/src/DNAnalysis.cpp" "/project/DNAlienDynamics/DNAnano/oxDNA/build/src/CMakeFiles/DNAnalysis.dir/DNAnalysis.cpp.o"
+  "/project/DNAlienDynamics/DNAnano/oxDNA/src/Managers/AnalysisManager.cpp" "/project/DNAlienDynamics/DNAnano/oxDNA/build/src/CMakeFiles/DNAnalysis.dir/Managers/AnalysisManager.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -21,7 +21,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/joelh/Documents/DNAnano/oxDNA/build/src/CMakeFiles/common.dir/DependInfo.cmake"
+  "/project/DNAlienDynamics/DNAnano/oxDNA/build/src/CMakeFiles/common.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

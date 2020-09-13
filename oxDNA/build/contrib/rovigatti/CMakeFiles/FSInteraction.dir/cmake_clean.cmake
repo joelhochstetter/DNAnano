@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/FSInteraction.dir/src/Interactions/FSInteraction.cpp.o"
   "../../../contrib/rovigatti/FSInteraction.pdb"
   "../../../contrib/rovigatti/FSInteraction.so"
-  "CMakeFiles/FSInteraction.dir/src/Interactions/FSInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

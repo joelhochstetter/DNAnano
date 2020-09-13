@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/MGAnalysis.dir/src/Observables/MGAnalysis.cpp.o"
   "../../../contrib/rovigatti/MGAnalysis.pdb"
   "../../../contrib/rovigatti/MGAnalysis.so"
-  "CMakeFiles/MGAnalysis.dir/src/Observables/MGAnalysis.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

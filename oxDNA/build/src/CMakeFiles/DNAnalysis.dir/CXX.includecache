@@ -6,27 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Backends/AnalysisBackend.cpp
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/AnalysisBackend.cpp
 sstream
 -
 AnalysisBackend.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Backends/AnalysisBackend.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/AnalysisBackend.h
 ../Interactions/InteractionFactory.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 ../Observables/ObservableOutput.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 ../Lists/ListFactory.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/ListFactory.h
 ../Boxes/BoxFactory.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BoxFactory.h
 ../PluginManagement/PluginManager.h
-/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Backends/AnalysisBackend.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/AnalysisBackend.h
 SimBackend.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/SimBackend.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Backends/SimBackend.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/SimBackend.h
 cmath
 -
 fstream
@@ -36,43 +36,45 @@ cfloat
 vector
 -
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BaseBox.h
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Particles/BaseParticle.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Utilities/parse_input/parse_input.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BoxFactory.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BoxFactory.h
 BaseBox.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/DNAnalysis.cpp
+/project/DNAlienDynamics/DNAnano/oxDNA/src/DNAnalysis.cpp
 defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 Managers/AnalysisManager.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Managers/AnalysisManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Managers/AnalysisManager.h
 Utilities/SignalManager.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/SignalManager.h
 Utilities/oxDNAException.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 Utilities/Timings.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Timings.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Forces/BaseForce.h
 string
 -
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Utilities/oxDNAException.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ../Utilities/Utils.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Utils.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/./Mesh.h
+
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 map
 -
 cfloat
@@ -84,31 +86,29 @@ set
 vector
 -
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Particles/BaseParticle.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BaseBox.h
 ../Lists/BaseList.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/BaseList.h
 ../Utilities/Utils.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Utils.h
 ../Utilities/oxDNAException.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 ./Mesh.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/Mesh.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/./Mesh.h
 ../Lists/Cells.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/Cells.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/InteractionFactory.h
 BaseInteraction.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Utilities/parse_input/parse_input.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/Mesh.h
-
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/BaseList.h
 vector
 -
 utility
@@ -116,57 +116,57 @@ utility
 set
 -
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Utilities/Timings.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Timings.h
 ../Utilities/parse_input/parse_input.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 ../Particles/BaseParticle.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Particles/BaseParticle.h
 ../Boxes/BaseBox.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/Cells.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/Cells.h
 BaseList.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/BaseList.h
 cfloat
 -
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/ListFactory.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/ListFactory.h
 BaseList.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/BaseList.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Managers/AnalysisManager.cpp
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Managers/AnalysisManager.cpp
 AnalysisManager.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Managers/AnalysisManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Managers/AnalysisManager.h
 ../Utilities/oxDNAException.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Managers/AnalysisManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Managers/AnalysisManager.h
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Backends/AnalysisBackend.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Backends/AnalysisBackend.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Backends/AnalysisBackend.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Interactions/BaseInteraction.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 ../Lists/BaseList.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Lists/BaseList.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Lists/BaseList.h
 ../Utilities/ConfigInfo.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Observables/ObservableOutput.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Observables/ObservableOutput.h
 vector
 -
 fstream
 -
 BaseObservable.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Observables/BaseObservable.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Particles/BaseParticle.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Particles/BaseParticle.h
 cstring
 -
 cstdlib
@@ -176,13 +176,13 @@ cassert
 stdio.h
 -
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 ../Forces/BaseForce.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Forces/BaseForce.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Forces/BaseForce.h
 ../Boxes/BaseBox.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Boxes/BaseBox.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Boxes/BaseBox.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/PluginManagement/PluginManager.h
 string
 -
 vector
@@ -190,25 +190,25 @@ vector
 stack
 -
 ../Observables/BaseObservable.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Observables/BaseObservable.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Observables/BaseObservable.h
 ../Utilities/parse_input/parse_input.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 ../Interactions/BaseInteraction.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Interactions/BaseInteraction.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/ConfigInfo.h
 oxDNAException.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 string
 -
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Logger.h
 cstdarg
 -
 parse_input/parse_input.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/SignalManager.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/SignalManager.h
 csignal
 -
 execinfo.h
@@ -216,7 +216,7 @@ execinfo.h
 ucontext.h
 -
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Timings.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Timings.h
 ctime
 -
 vector
@@ -226,7 +226,7 @@ map
 string
 -
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Utils.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Utils.h
 algorithm
 -
 functional
@@ -246,15 +246,15 @@ cstdio
 vector
 -
 ../defs.h
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/oxDNAException.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/oxDNAException.h
 string
 -
 cstdarg
 -
 
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 cstdio
 -
 cstdlib
@@ -274,7 +274,7 @@ map
 set
 -
 
-/home/joelh/Documents/DNAnano/oxDNA/src/defs.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/defs.h
 cmath
 -
 strings.h
@@ -282,11 +282,11 @@ strings.h
 iostream
 -
 model.h
-/home/joelh/Documents/DNAnano/oxDNA/src/model.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/model.h
 Utilities/Logger.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/Logger.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/Logger.h
 Utilities/parse_input/parse_input.h
-/home/joelh/Documents/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/parse_input/parse_input.h
 
-/home/joelh/Documents/DNAnano/oxDNA/src/model.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/model.h
 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/SPBAnalysis.dir/src/Observables/SPBAnalysis.cpp.o"
   "../../../contrib/rovigatti/SPBAnalysis.pdb"
   "../../../contrib/rovigatti/SPBAnalysis.so"
-  "CMakeFiles/SPBAnalysis.dir/src/Observables/SPBAnalysis.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

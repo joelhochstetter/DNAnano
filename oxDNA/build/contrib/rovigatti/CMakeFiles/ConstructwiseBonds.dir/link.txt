@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,ConstructwiseBonds.so -o ../../../contrib/rovigatti/ConstructwiseBonds.so CMakeFiles/ConstructwiseBonds.dir/src/Observables/ConstructwiseBonds.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG -L/usr/local/glib/2.34.0/lib -shared -Wl,-soname,ConstructwiseBonds.so -o ../../../contrib/rovigatti/ConstructwiseBonds.so CMakeFiles/ConstructwiseBonds.dir/src/Observables/ConstructwiseBonds.cpp.o 

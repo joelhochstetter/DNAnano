@@ -19,10 +19,15 @@ forceFile = sys.argv[2];
 b         = float(sys.argv[3]);
 stiffness = float(sys.argv[4]);
 
-if len(sys.argv) == 6:
+if len(sys.argv) >= 6:
     sep = float(sys.argv[5])
 else:
     sep = 21.14 #tether separation ~18.0nm
+
+if len(sys.argv) == 7:
+    z = float(sys.argv[6])
+else:
+    z = b/2
 
 
 threep = [] #idx of 3' end
@@ -50,11 +55,11 @@ t2 = fivep[lens.index(max(lens))]
 with open(forceFile, "a") as myfile:
     x1 = b/2 - sep/2
     y1 = b/2
-    z1 = b/2
+    z1 = z
     myfile.write('\n\n{\ntype = trap\nparticle = ' + str(t1) + '\nstiff = ' + str(stiffness) + '\npos0 = ' + str(x1) + ',' + str(y1) + ',' + str(z1) + '\nrate = 0.0\ndir = 1.0, 0.0, 0.0\n}\n\n')
  
     x2 = b/2 + sep/2
     y2 = b/2
-    z2 = b/2       
+    z2 = z       
     myfile.write('\n\n{\ntype = trap\nparticle = ' + str(t2) + '\nstiff = ' + str(stiffness) + '\npos0 = ' + str(x2) + ',' + str(y2) + ',' + str(z2) + '\nrate = 0.0\ndir = 1.0, 0.0, 0.0\n}\n\n')
     

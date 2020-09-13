@@ -6,3 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.c
+time_scales.h
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
+
+/project/DNAlienDynamics/DNAnano/oxDNA/src/Utilities/time_scales/time_scales.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

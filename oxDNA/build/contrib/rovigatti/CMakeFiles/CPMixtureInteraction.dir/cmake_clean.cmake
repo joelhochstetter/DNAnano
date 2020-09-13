@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CPMixtureInteraction.dir/src/Interactions/CPMixtureInteraction.cpp.o"
   "../../../contrib/rovigatti/CPMixtureInteraction.pdb"
   "../../../contrib/rovigatti/CPMixtureInteraction.so"
-  "CMakeFiles/CPMixtureInteraction.dir/src/Interactions/CPMixtureInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

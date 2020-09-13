@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o"
   "../../../contrib/rovigatti/CPAnalysis.pdb"
   "../../../contrib/rovigatti/CPAnalysis.so"
-  "CMakeFiles/CPAnalysis.dir/src/Observables/CPAnalysis.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

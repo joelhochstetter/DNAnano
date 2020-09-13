@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/DNA2ModInteraction.dir/src/Interactions/DNA2ModInteraction.cpp.o"
   "../../../contrib/randisi/DNA2ModInteraction.pdb"
   "../../../contrib/randisi/DNA2ModInteraction.so"
-  "CMakeFiles/DNA2ModInteraction.dir/src/Interactions/DNA2ModInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

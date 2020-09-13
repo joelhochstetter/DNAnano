@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/NematicS.dir/src/Observables/NematicS.cpp.o"
   "../../../contrib/romano/NematicS.pdb"
   "../../../contrib/romano/NematicS.so"
-  "CMakeFiles/NematicS.dir/src/Observables/NematicS.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/DirkInteractionSin.dir/src/Interactions/DirkInteractionSin.cpp.o"
   "../../../contrib/romano/DirkInteractionSin.pdb"
   "../../../contrib/romano/DirkInteractionSin.so"
-  "CMakeFiles/DirkInteractionSin.dir/src/Interactions/DirkInteractionSin.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

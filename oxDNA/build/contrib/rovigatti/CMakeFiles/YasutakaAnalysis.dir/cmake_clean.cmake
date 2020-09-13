@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/YasutakaAnalysis.dir/src/Observables/YasutakaAnalysis.cpp.o"
   "../../../contrib/rovigatti/YasutakaAnalysis.pdb"
   "../../../contrib/rovigatti/YasutakaAnalysis.so"
-  "CMakeFiles/YasutakaAnalysis.dir/src/Observables/YasutakaAnalysis.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

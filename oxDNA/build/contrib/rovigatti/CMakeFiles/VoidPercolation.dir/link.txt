@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,VoidPercolation.so -o ../../../contrib/rovigatti/VoidPercolation.so CMakeFiles/VoidPercolation.dir/src/Observables/VoidPercolation.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG -L/usr/local/glib/2.34.0/lib -shared -Wl,-soname,VoidPercolation.so -o ../../../contrib/rovigatti/VoidPercolation.so CMakeFiles/VoidPercolation.dir/src/Observables/VoidPercolation.cpp.o 

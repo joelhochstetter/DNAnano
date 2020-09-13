@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ManfredoInteraction.dir/src/Interactions/ManfredoInteraction.cpp.o"
   "../../../contrib/rovigatti/ManfredoInteraction.pdb"
   "../../../contrib/rovigatti/ManfredoInteraction.so"
-  "CMakeFiles/ManfredoInteraction.dir/src/Interactions/ManfredoInteraction.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG  -shared -Wl,-soname,DirkInteractionSin.so -o ../../../contrib/romano/DirkInteractionSin.so CMakeFiles/DirkInteractionSin.dir/src/Interactions/DirkInteractionSin.cpp.o 
+/usr/bin/c++ -fPIC  -D_FORCE_INLINES -O3 -DNDEBUG -L/usr/local/glib/2.34.0/lib -shared -Wl,-soname,DirkInteractionSin.so -o ../../../contrib/romano/DirkInteractionSin.so CMakeFiles/DirkInteractionSin.dir/src/Interactions/DirkInteractionSin.cpp.o 

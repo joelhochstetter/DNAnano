@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "../bin/oxDNA"
-  "../bin/oxDNA.pdb"
   "CMakeFiles/oxDNA.dir/oxDNA.cpp.o"
+  "../bin/oxDNA.pdb"
+  "../bin/oxDNA"
 )
 
 # Per-language clean rules from dependency scanning.

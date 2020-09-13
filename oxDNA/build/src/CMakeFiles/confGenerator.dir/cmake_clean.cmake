@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "../bin/confGenerator"
-  "../bin/confGenerator.pdb"
-  "CMakeFiles/confGenerator.dir/Managers/GeneratorManager.cpp.o"
   "CMakeFiles/confGenerator.dir/confGenerator.cpp.o"
+  "CMakeFiles/confGenerator.dir/Managers/GeneratorManager.cpp.o"
+  "../bin/confGenerator.pdb"
+  "../bin/confGenerator"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Remoteness.dir/src/Observables/Remoteness.cpp.o"
   "../../../contrib/rovigatti/Remoteness.pdb"
   "../../../contrib/rovigatti/Remoteness.so"
-  "CMakeFiles/Remoteness.dir/src/Observables/Remoteness.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
