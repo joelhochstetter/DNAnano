@@ -1,2 +1,0 @@
-xorg-dev
-libgl1-mesa-dev
