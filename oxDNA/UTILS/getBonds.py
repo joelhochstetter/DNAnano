@@ -2,6 +2,7 @@
 
 #A utility that prints out the number of hydrogen bonds between different strands in the system 
 
+
 def getBonds():
     import base
     try:
@@ -62,6 +63,7 @@ def getBonds():
         #os.system(PROCESSPROGRAM+' '+launchcommand)
         #launchargs = [PROCESSPROGRAM,launchcommand]
         confid = counter
+
         if counter == confid:
             myinput = subprocess.Popen(launchargs,stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             mystdout,mystderr = myinput.communicate()
@@ -69,8 +71,6 @@ def getBonds():
             #print >> sys.stdout, mystdout
             print >> open('bonds.txt', 'w'), mystdout	
             numBonds.append(getNumberOfBonds('bonds.txt'))
-            if counter > 251:
-                break
             
         counter += 1
         mysystem = myreader.get_system()

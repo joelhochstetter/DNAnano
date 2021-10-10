@@ -1,0 +1,182 @@
+#!/usr/bin/env python
+
+import base
+#import readers
+import os.path
+import sys
+import numpy as np
+
+if len(sys.argv) < 2:
+    #base.Logger.log("Usage is %s topology" % sys.argv[0], base.Logger.CRITICAL)
+    sys.exit()
+
+top_in = sys.argv[1]
+if len(sys.argv) < 3:
+    MDval = 0
+else:
+    MDval  = int(sys.argv[2])
+
+inp = open (top_in, 'r')
+
+lines = inp.readlines ()
+
+nn = int (lines[0].split()[0])
+ns = int (lines[0].split()[1])
+#base.Logger.log ('detected %i strands and a total of %i nucleotides' % (ns, nn))
+print('detected ' + str(ns) + ' strands and a total of ' + str(nn) + ' nucleotides')
+
+startNt =  [0 for i in range(ns)]
+endNt   =  [0 for i in range(ns)]
+
+sqs = ['' for i in range (ns)]
+for line in lines[1:]:
+    words = line.split()
+    index = int(words[0]) - 1
+    sqs[index] += words[1]
+    if int(words[2]) == -1:
+        startNt[index] = int(words[3]) - 1
+    if int(words[3]) == -1:
+        endNt[index] = int(words[2]) + 1        
+
+sidx = 0
+
+inp.close ()
+
+def printDNA(sqs, sidx, startNt, endNt, MDval):
+    print("Printing 5' to 3'")
+    labels = []
+    for s in sqs:
+        label = findInDNA(s[::-1], MDval)
+        labels.append(label)
+        print('SeqIdx:',sidx+1,'Length: ', endNt[sidx]-startNt[sidx]+1,'Start: ',startNt[sidx],'End: ',endNt[sidx],s[::-1], label)
+        sidx += 1
+
+    #print DNA labels and occurences
+    occ = list(zip(*np.unique(labels, return_counts=True)))
+    print(occ)
+
+
+
+def findInDNA(seq, MDval):
+    label = []
+    
+    if MDval == 0:
+        #MD0
+        l = []
+        l.append('GCTGTTAGAGAATGAGAGTCGTCGGTGGATAAAGTCAGTAGG')
+        l.append('GGGAGTAGCATCGTAATTAGGAGGTAAGGTCAAGGTTGTACG')
+        l.append('GGGATAAGTTGATTGCAGAGCTTCTAGGGTTAAAAGGGGACG')
+
+        s = []
+        s.append('CGACTCTCATTCTCTAACAGCAAGAGGAAGCCCGAAAGACAATGTTTAGATCAAAAATCAGGT')
+        s.append('CGACTCTCATTCTCTAACAGCAGGTCATTTTTGCGCGGAAGCAAACTCCTTCGAGCTTCAAAG')
+        s.append('CGACTCTCATTCTCTAACAGCCAGGACGTTGGGAATTATAGTCAGAAGCGCATCAAAAAGATT')
+        s.append('CCTAATTACGATGCTACTCCCAGAGAGTACGCATAGTAAGAGCAACACTTTTGCCAGAGGGGG')
+        s.append('CCTAATTACGATGCTACTCCCACGGAACAACATTAGAGAATGACCATAAACTGGATAGCGTCCAATACTG')
+        s.append('CCTAATTACGATGCTACTCCCCTTTACCCTGACTAGAAAAATCTACGTTCTCCTTTTGATAAG')
+        s.append('CCTAATTACGATGCTACTCCCTAATAGTAATTCAAATATCGCGTTTTAAAACAGGTCAGGATT')
+        s.append('GCTCTGCAATCAACTTATCCCACAGTTCAGAAAACTTACAGGTAGAAAGATGCAGA')
+        s.append('GCTCTGCAATCAACTTATCCCCGGAATCTTTGCAAAAGAAGTATCATAACCCTCGT')
+        s.append('GCTCTGCAATCAACTTATCCCTTACCAGACGACGAACCACATTCAACTAATTCATCAGTTGAG')
+        s.append('GCTCTGCAATCAACTTATCCCTACATAACGCCAAAAGGAATTACGAGCTTTAATTGAATAAAACGAACTA')
+        s.append('AATAGCGAGAGGCTGTCATAAATATTCACTCAAATGCTTTAA')
+        
+    elif MDval == 1:
+        #MD1
+        l = []
+        l.append('AGTCTTAGCGAATGAGAGTATTCGGTGGATAAAGTCAGTAGG')
+        l.append('TTGTGTAGGATCGTAATTAATAGGTAAGGTCAAGGTTGTACG')
+        l.append('ATGGTAAGATGATTGCAGAATTTCTAGGGTTAAAAGGGGACG')
+
+        s = []
+        s.append('CGACTCTCATTCTCTAACAGCAAGAGGAAGCCCGAAAGACAATGTTTAGATCAAAAATCAGGT')
+        s.append('CGACTCTCATTCTCTAACAGCAGGTCATTTTTGCGCGGAAGCAAACTCCTTCGAGCTTCAAAG')
+        s.append('CGACTCTCATTCTCTAACAGCCAGGACGTTGGGAATTATAGTCAGAAGCGCATCAAAAAGATT')
+        s.append('CCTAATTACGATGCTACTCCCAGAGAGTACGCATAGTAAGAGCAACACTTTTGCCAGAGGGGG')
+        s.append('CCTAATTACGATGCTACTCCCACGGAACAACATTAGAGAATGACCATAAACTGGATAGCGTCCAATACTG')
+        s.append('CCTAATTACGATGCTACTCCCCTTTACCCTGACTAGAAAAATCTACGTTCTCCTTTTGATAAG')
+        s.append('CCTAATTACGATGCTACTCCCTAATAGTAATTCAAATATCGCGTTTTAAAACAGGTCAGGATT')
+        s.append('GCTCTGCAATCAACTTATCCCACAGTTCAGAAAACTTACAGGTAGAAAGATGCAGA')
+        s.append('GCTCTGCAATCAACTTATCCCCGGAATCTTTGCAAAAGAAGTATCATAACCCTCGT')
+        s.append('GCTCTGCAATCAACTTATCCCTTACCAGACGACGAACCACATTCAACTAATTCATCAGTTGAG')
+        s.append('GCTCTGCAATCAACTTATCCCTACATAACGCCAAAAGGAATTACGAGCTTTAATTGAATAAAACGAACTA')
+        s.append('AATAGCGAGAGGCTGTCATAAATATTCACTCAAATGCTTTAA')    
+    
+    elif MDval == 2:    
+        #MD2
+        l = []
+        l.append('TCGTTGTATGTGGTAGAGGCCTCGGTGGATAAAGTCAGTAGG')
+        l.append('TCGTTGTATGTGGTAGAGGCCAGGTAAGGTCAAGGTTGTACG')
+        l.append('TCGTTGTATGTGGTAGAGGCCTTCTAGGGTTAAAAGGGGACG')
+
+        s = []
+        s.append('TTCCTCTACCACCTACATCACACAGTTCAGAAAACTTACAGGTAGAAAGATGCAGA')
+        s.append('TTCCTCTACCACCTACATCACCGGAATCTTTGCAAAAGAAGTATCATAACCCTCGT')
+        s.append('TTCCTCTACCACCTACATCACAGAGAGTACGCATAGTAAGAGCAACACTTTTGCCAGAGGGGG')
+        s.append('TTCCTCTACCACCTACATCACTTACCAGACGACGAACCACATTCAACTAATTCATCAGTTGAG')
+        s.append('TTCCTCTACCACCTACATCACACGGAACAACATTAGAGAATGACCATAAACTGGATAGCGTCCAATACTG')
+        s.append('TTCCTCTACCACCTACATCACCTTTACCCTGACTAGAAAAATCTACGTTCTCCTTTTGATAAG')
+        s.append('TTCCTCTACCACCTACATCACAAGAGGAAGCCCGAAAGACAATGTTTAGATCAAAAATCAGGT')
+        s.append('TTCCTCTACCACCTACATCACTAATAGTAATTCAAATATCGCGTTTTAAAACAGGTCAGGATT')
+        s.append('TTCCTCTACCACCTACATCACAGGTCATTTTTGCGCGGAAGCAAACTCCTTCGAGCTTCAAAG')
+        s.append('TTCCTCTACCACCTACATCACTACATAACGCCAAAAGGAATTACGAGCTTTAATTGAATAAAACGAACTA')
+        s.append('TTCCTCTACCACCTACATCACCAGGACGTTGGGAATTATAGTCAGAAGCGCATCAAAAAGATT')
+        s.append('AATAGCGAGAGGCTGTCATAAATATTCACTCAAATGCTTTAA')      
+    
+    elif MDval == 3:    
+        #MD3
+        l = []
+        l.append('GTGATGTAGGTGGTAGAGGAATCGGTGGATAAAGTCAGTAGG')
+        l.append('GTGATGTAGGTGGTAGAGGAAAGGTAAGGTCAAGGTTGTACG')
+        l.append('GTGATGTAGGTGGTAGAGGAATTCTAGGGTTAAAAGGGGACG')
+
+        s = []
+        s.append('TTCCTCTACCACCTACATCACACAGTTCAGAAAACTTACAGGTAGAAAGATGCAGA')
+        s.append('TTCCTCTACCACCTACATCACCGGAATCTTTGCAAAAGAAGTATCATAACCCTCGT')
+        s.append('TTCCTCTACCACCTACATCACAGAGAGTACGCATAGTAAGAGCAACACTTTTGCCAGAGGGGG')
+        s.append('TTCCTCTACCACCTACATCACTTACCAGACGACGAACCACATTCAACTAATTCATCAGTTGAG')
+        s.append('TTCCTCTACCACCTACATCACACGGAACAACATTAGAGAATGACCATAAACTGGATAGCGTCCAATACTG')
+        s.append('TTCCTCTACCACCTACATCACCTTTACCCTGACTAGAAAAATCTACGTTCTCCTTTTGATAAG')
+        s.append('TTCCTCTACCACCTACATCACAAGAGGAAGCCCGAAAGACAATGTTTAGATCAAAAATCAGGT')
+        s.append('TTCCTCTACCACCTACATCACTAATAGTAATTCAAATATCGCGTTTTAAAACAGGTCAGGATT')
+        s.append('TTCCTCTACCACCTACATCACAGGTCATTTTTGCGCGGAAGCAAACTCCTTCGAGCTTCAAAG')
+        s.append('TTCCTCTACCACCTACATCACTACATAACGCCAAAAGGAATTACGAGCTTTAATTGAATAAAACGAACTA')
+        s.append('TTCCTCTACCACCTACATCACCAGGACGTTGGGAATTATAGTCAGAAGCGCATCAAAAAGATT')
+        s.append('AATAGCGAGAGGCTGTCATAAATATTCACTCAAATGCTTTAA')  
+    else:
+        print('code failed, MD not provided')
+    
+    
+    stds = {}
+    stds['brunnette'] = "TTCCTCTACCACCTACATCAC"
+    stds['apollo']    = "CCTACTGACTTTATCCACCGA"   
+    stds['minerva']   = "CCTAATTACGATGCTACTCCC"
+    stds['jupiter']   = "GCTCTGCAATCAACTTATCCC"    
+    stds['juno']      = "CGTCCCCTTTTAACCCTAGAA"
+    stds['neptune']   = "CGACTCTCATTCTCTAACAGC"    
+    stds['venus']     = "CGTACAACCTTGACCTTACCT"
+
+    ivd = {v: k for k, v in stds.items()}
+
+
+    j = 0;
+    for ll in l:
+        if ll == seq:
+            label.append('l' + str(j))
+        j += 1
+
+    for ss in s:
+        if ss == seq:
+            label.append('s' + str(j))
+        j += 1
+
+    if seq in ivd.keys():
+        label.append(ivd[seq])
+    
+    if len(label) == 0:
+        label.append('NO LABEL')
+        
+        
+    return label
+
+printDNA(sqs, sidx, startNt, endNt, MDval)

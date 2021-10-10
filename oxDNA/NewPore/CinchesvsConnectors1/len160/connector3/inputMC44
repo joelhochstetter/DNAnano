@@ -1,0 +1,4 @@
+trajectory_file = trajectoryMC44.dat
+log_file = log44.dat
+energy_file = energy44.dat
+seed = 44

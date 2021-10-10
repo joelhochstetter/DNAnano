@@ -1,0 +1,6 @@
+trajectory_file = trajectoryMC82.dat
+log_file = log82.dat
+energy_file = energy82.dat
+seed = 82
+conf_file = trajectoryMC82.dat
+lastconf_file = last_conf82.dat

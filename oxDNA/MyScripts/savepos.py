@@ -91,3 +91,5 @@ def savepos():
                f.write("x-angular velocity of particle " + str(pts[i]) + "\ny-angular velocity of particle " + str(pts[i]) +  "\nz-angular velocity of particle " + str(pts[i]) + '\n') 
        f.write("time\n")
        print('written to file')
+
+savepos()

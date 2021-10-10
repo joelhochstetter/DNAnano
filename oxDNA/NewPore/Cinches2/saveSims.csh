@@ -7,7 +7,7 @@ set oxPath      = $argv[1]
 set numTrajFile = $argv[2] 
 set cinchnum    = $argv[3]
 
-source ~/usePython3.csh
+#source ~/usePython3.csh
 source $oxPath/addpath.csh
 
 
@@ -26,8 +26,8 @@ foreach l ( $cinchnum )
     
 	rm outpos*.dat
     cp trajectoryMC1.dat sampleTrajMC.dat
-    bash $oxPath/MyScripts/makeVids.sh prova.top sampleTrajMC.dat
-    python2.7 $oxPath/UTILS/getBonds.py inputMC1 sampleTrajMC.dat numbonds.txt
+    #bash $oxPath/MyScripts/makeVids.sh prova.top sampleTrajMC.dat
+    #python2.7 $oxPath/UTILS/getBonds.py inputMC1 sampleTrajMC.dat numbonds.txt
     
     cd ..
 end

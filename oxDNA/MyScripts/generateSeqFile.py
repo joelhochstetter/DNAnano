@@ -166,6 +166,16 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
         rowSeq[7] = list("AGTCCTAATCTCTCATGGAAATTAACGAGGAAAACTATTCTCCAGTAAAAACGCCTACCGTTTATAGCGCAAAATTAAGCTRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
         rowSeq[8] = list("TCTTGTCAAGATTACTCTTGATGAAGGTCAGCCAGCCTATGCGCCTGGTCTGTACACCGTCAAGCCTTATTCACTGAATGARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
         rowSeq[9] = list("TGGCCTATAAGTAATGGGTTTAGTTGCATTGTTTCGACGAGTAAGTCACTTATTCCGAACTGCCACATGTCTGGTCCGCGTRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR")
+
+    if numRows == 10 and numCols == 147 and jsonfile == "cinch1_clen42x2_spacer4_displace.json":
+        print('WARNING: Using specified tether seqeunces')
+        rowSeq[  7][ 63: 83] = rc(jupiter)
+        rowSeq[  7][105:125] = rc(juno)
+        rowSeq[  9][ 63: 83] = rc(neptune)
+        rowSeq[  9][105:125] = rc(minerva)
+        rowSeq[6:9][ 84:104] = rowSeq[6:9][14:34]
+        rowSeq[6:9][126:146] = rowSeq[6:9][35:55]
+                   
         
     #print('Neptune', ''.join(neptune), ''.join(rc(neptune)), ''.join(rev(neptune)), ''.join(comp(neptune))) #checking neptune is working
     

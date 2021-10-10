@@ -1,0 +1,48 @@
+##############################
+####  PROGRAM PARAMETERS  ####
+##############################
+backend = CPU
+backend_precision = double
+debug = 1
+
+
+##############################
+####    SIM PARAMETERS    ####
+##############################
+sim_type = MC
+interaction_type = DNA
+ensemble = NVT
+steps =  1e10
+check_energy_every = 1e4
+check_energy_threshold = 1.e-4
+
+delta_translation = 0.11
+delta_rotation = 0.25
+T = 0.1
+verlet_skin = 0.20
+fix_diffusion = 0
+back_in_box = 1
+
+use_average_seq = 0
+seq_dep_file = oxDNA1_sequence_dependent_parameters.txt
+
+
+##############################
+####    INPUT / OUTPUT    ####
+##############################
+topology = prova.top 
+refresh_vel = 1
+no_stdout_energy = 0
+restart_step_counter = 0
+print_conf_interval = 1e5
+print_energy_every = 1e5
+time_scale = linear
+external_forces = 1
+external_forces_file = external.conf
+confs_to_skip = 2405
+trajectory_file = trajectoryMC90.dat
+log_file = log90.dat
+energy_file = energy90.dat
+seed = 90
+conf_file = trajectoryMC90.dat
+lastconf_file = last_conf90.dat

@@ -1,0 +1,1 @@
+Using free pore from: /import/silo2/joelh/misc/DNA/VaryTethLen3/len120/ogSeq/joinPos.dat
