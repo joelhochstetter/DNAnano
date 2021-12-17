@@ -1,0 +1,16 @@
+#!/bin/bash	
+#PBS -P DNAlienDynamics
+#PBS -l select=1:ncpus=1:mem=3GB   
+#PBS -l walltime=23:59:00
+#PBS -J 0-8
+# #PBS -q scavenger
+
+
+cd ${PBS_O_WORKDIR}
+
+cp DNAanalCinch.pbs DNAnano/oxDNA/NewPore/Cinches2/
+
+module load anaconda2
+
+tcsh /project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/NewPore/Cinches2/saveSimsMD.csh /project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA /project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/NewPore/Cinches2 5 $PBS_ARRAY_INDEX
+

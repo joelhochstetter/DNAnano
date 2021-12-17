@@ -1,0 +1,13 @@
+#!/bin/bash	
+#PBS -P SydneyDNA
+#PBS -l select=1:ncpus=1:mem=3GB   
+#PBS -l walltime=167:59:00
+##PBS -J 1-19
+# #PBS -q scavenger
+
+
+cd ${PBS_O_WORKDIR}
+
+cp DNAconnUndocked.pbs DNAnano/oxDNA/NewPore/Connectors2/Undocked/
+
+tcsh DNAnano/oxDNA/NewPore/Connectors2/Undocked/MCrunSims.csh /project/oxDNA/joel/DNAnano/oxDNA 1 19 # $PBS_ARRAY_INDEX

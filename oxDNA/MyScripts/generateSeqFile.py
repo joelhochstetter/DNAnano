@@ -30,7 +30,8 @@ minerva       = list("CCTAATTACGATGCTACTCCC")
 jupiter       = list("GCTCTGCAATCAACTTATCCC")      
 juno          = list("CGTCCCCTTTTAACCCTAGAA")          
 neptune       = list("CGACTCTCATTCTCTAACAGC") 
-venus         = list("CGTACAACCTTGACCTTACCT")  
+venus         = list("CGTACAACCTTGACCTTACCT") 
+Tspacer       = list("TTTTTTTTTTTTTTTTTTTTT") 
 
 def genSeqFile(jsonfile, scaffile, scafperm):
 
@@ -176,7 +177,17 @@ def customSeqs(rowSeq, numRows, numCols, jsonfile):
         rowSeq[6:9][ 84:104] = rowSeq[6:9][14:34]
         rowSeq[6:9][126:146] = rowSeq[6:9][35:55]
                    
+                   
+                   
+    print(jsonfile, (jsonfile == "poreConnectors4.json") or (jsonfile == "poreConnectors7.json") or (jsonfile == "poreConnectors11.json"))
+    if (jsonfile == "poreConnectors4.json") or (jsonfile == "poreConnectors7.json") or (jsonfile == "poreConnectors11.json"):
+        print('WARNING: Using specified tether seqeunces')
+        #From barrel
+        rowSeq = addConnectors(rowSeq,[0,49,105],[comp(Tspacer),comp(Tspacer),comp(Tspacer)],[neptune,minerva,jupiter])
+        #From pore
+        rowSeq = fixConnectorUndocked(rowSeq, [0,140], [neptune,minerva,jupiter], [1,0,1,1,0,0], [2,2,3,2,2,1])
         
+    
     #print('Neptune', ''.join(neptune), ''.join(rc(neptune)), ''.join(rev(neptune)), ''.join(comp(neptune))) #checking neptune is working
     
     # numCols = 147 <=> docked || 168 undocked

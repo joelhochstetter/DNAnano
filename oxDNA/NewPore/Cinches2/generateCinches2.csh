@@ -8,11 +8,10 @@ cd $simPath
 
 
 #set-up sequences
-#foreach l ( 0 1 2 3 4 5 6 )
-foreach l ( 3 )
-    mkdir cinch$l
-    cp cinch$l*.json cinch$l
-    cd cinch$l
+foreach l ( 0 1 2 3 4 5 6 7 )
+    mkdir cinchnew$l
+    cp cinch$l*.json cinchnew$l
+    cd cinchnew$l
     
     cp $simPath/oxDNA1_sequence_dependent_parameters.txt .
     
