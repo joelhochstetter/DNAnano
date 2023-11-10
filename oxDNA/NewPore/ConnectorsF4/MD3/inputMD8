@@ -1,0 +1,48 @@
+##############################
+####  PROGRAM PARAMETERS  ####
+##############################
+backend = CPU
+backend_precision = double
+debug = 1
+
+
+##############################
+####    SIM PARAMETERS    ####
+##############################
+sim_type = MD
+interaction_type = DNA
+ensemble = NVT
+steps =  1e9
+thermostat = john
+newtonian_steps = 203
+diff_coeff = 2.5
+check_energy_every = 1e4
+check_energy_threshold = 1.e-4
+T  = 0.1
+dt = 0.005
+verlet_skin = 0.20
+fix_diffusion = 0
+back_in_box = 1
+box_type = orthogonal
+use_average_seq = 0
+seq_dep_file = oxDNA1_sequence_dependent_parameters.txt
+
+
+##############################
+####    INPUT / OUTPUT    ####
+##############################
+topology = prova.top
+refresh_vel = 1
+no_stdout_energy = 0
+restart_step_counter = 1
+print_conf_interval = 1e6
+print_energy_every  = 1e6
+time_scale = linear
+external_forces = 1
+external_forces_file = external.conf
+trajectory_file = trajectoryMD8.dat
+log_file = log8.dat
+energy_file = energy8.dat
+seed = 8
+lastconf_file = last_conf8.dat
+conf_file = init8.conf

@@ -1,0 +1,15 @@
+#!/bin/bash	
+# #PBS -P DNAlienDynamics
+#PBS -P SOCinNWN
+#PBS -l select=1:ncpus=1:mem=3GB   
+#PBS -l walltime=503:59:00
+#PBS -J 10-19
+# #PBS -q scavenger
+
+
+cd ${PBS_O_WORKDIR}
+
+cp DNAconnF3.pbs DNAnano/oxDNA/NewPore/ConnectorsF3/
+
+tcsh DNAnano/oxDNA/NewPore/ConnectorsF3/MDrunSims.csh /project/DNAlienDynamics/DNAnano/oxDNA 4 $PBS_ARRAY_INDEX
+

@@ -23,8 +23,13 @@ r         = float(sys.argv[2]);
 b         = float(sys.argv[3]);
 stiffness = float(sys.argv[4]);
 forceFile = sys.argv[5];
-if len(sys.argv) == 7:
+if len(sys.argv) >= 7:
     h  = float(sys.argv[6])
+
+if len(sys.argv) == 8:
+    z = float(sys.argv[7])
+else:
+    z = b/2
 
 
 with open(forceFile, "a") as myfile:
@@ -35,4 +40,4 @@ with open(forceFile, "a") as myfile:
             P = r*(u**2 + v**2) - b/2*(u + v);
             myfile.write('\n\n{\ntype = repulsion_plane\nparticle = -1\nstiff = ' + str(stiffness) + '\ndir = ' + str(u) + ', ' + str(v) + ', 0.0\nposition = ' + str(P) + '\n}\n')
     else:
-        myfile.write('\n\n{\ntype = repulsion_cylinder\nparticle = -1\nstiff = ' + str(stiffness) + '\ndir = 0, 0, 1\ncenter = ' + str(b/2) + ', ' + str(b/2) + ', ' + str(b/2) + '\nr0 = ' + str(r) + '\nheight = ' + str(h) + '\n}\n')
+        myfile.write('\n\n{\ntype = repulsion_cylinder\nparticle = -1\nstiff = ' + str(stiffness) + '\ndir = 0, 0, 1\ncenter = ' + str(b/2) + ', ' + str(b/2) + ', ' + str(z) + '\nr0 = ' + str(r) + '\nheight = ' + str(h) + '\n}\n')

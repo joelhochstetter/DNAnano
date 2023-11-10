@@ -44,6 +44,8 @@ print_conf_interval = 1e5
 print_energy_every = 2e5
 time_scale = linear
 external_forces = 1
-external_forces_file = external.conf
+
 seed = 11
 conf_file = start11.conf
+external_forces_file = external11.conf
+lastconf_file = last_conf11.dat

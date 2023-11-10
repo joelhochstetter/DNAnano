@@ -95,6 +95,7 @@ def getNumberOfBonds(bondfile):
                           
             if track == 1 and len(cells) >= 7 and float(cells[6]) < -0.1:
                 numBonds += 1
+                print(line)
     #print(numBonds)
     return numBonds
 

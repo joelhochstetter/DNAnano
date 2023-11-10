@@ -9,7 +9,7 @@ cd $simPath
 
 foreach s ( $seed )  #( 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 ) 
     foreach l ( 4 7 11 ) #( $MDval )
-        cd ConnectorsF$l
+        cd poreConnectors$l
         tcsh $simPath/init_poreConnF3.csh $oxPath $l $seed
         mkdir xv
         cp prova.top init$seed.conf xv

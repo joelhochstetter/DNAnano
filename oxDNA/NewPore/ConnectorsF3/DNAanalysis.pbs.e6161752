@@ -1,0 +1,2404 @@
+cp: cannot create regular file `DNAnano/oxDNA/NewPore/ConnectorsF3/': No such file or directory
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD20.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD20'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD21.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD21'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD22.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD22'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD23.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD23'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD24.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD24'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD25.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD25'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD26.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD26'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD27.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD27'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD28.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD28'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD29.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD29'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD30.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD30'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD31.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD31'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD32.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD32'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD33.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD33'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD34.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD34'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD35.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD35'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD36.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD36'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD37.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD37'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD38.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD38'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD39.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD39'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD40.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD40'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD41.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD41'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD42.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD42'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD43.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD43'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD44.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD44'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD45.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD45'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD46.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD46'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD47.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD47'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD48.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD48'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD49.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD49'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD50.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD50'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD51.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD51'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD52.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD52'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD53.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD53'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD54.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD54'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD55.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD55'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD56.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD56'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD57.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD57'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD58.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD58'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD59.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD59'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD60.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD60'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD61.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD61'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD62.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD62'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD63.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD63'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD64.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD64'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD65.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD65'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD66.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD66'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD67.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD67'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD68.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD68'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD69.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD69'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD70.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD70'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD71.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD71'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD72.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD72'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD73.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD73'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD74.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD74'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD75.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD75'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD76.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD76'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD77.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD77'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD78.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD78'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD79.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD79'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD80.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD80'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD81.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD81'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD82.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD82'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD83.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD83'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD84.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD84'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD85.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD85'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD86.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD86'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD87.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD87'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD88.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD88'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD89.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD89'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD90.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD90'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD91.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD91'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD92.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD92'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD93.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD93'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD94.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD94'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD95.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD95'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD96.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD96'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD97.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD97'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD98.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD98'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD99.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD99'
+mkdir: cannot create directory `xv1': File exists
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD20.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD20'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD21.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD21'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD22.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD22'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD23.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD23'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD24.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD24'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD25.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD25'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD26.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD26'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD27.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD27'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD28.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD28'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD29.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD29'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD30.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD30'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD31.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD31'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD32.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD32'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD33.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD33'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD34.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD34'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD35.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD35'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD36.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD36'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD37.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD37'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD38.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD38'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD39.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD39'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD40.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD40'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD41.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD41'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD42.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD42'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD43.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD43'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD44.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD44'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD45.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD45'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD46.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD46'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD47.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD47'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD48.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD48'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD49.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD49'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD50.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD50'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD51.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD51'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD52.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD52'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD53.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD53'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD54.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD54'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD55.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD55'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD56.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD56'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD57.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD57'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD58.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD58'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD59.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD59'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD60.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD60'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD61.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD61'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD62.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD62'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD63.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD63'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD64.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD64'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD65.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD65'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD66.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD66'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD67.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD67'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD68.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD68'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD69.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD69'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD70.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD70'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD71.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD71'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD72.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD72'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD73.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD73'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD74.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD74'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD75.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD75'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD76.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD76'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD77.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD77'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD78.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD78'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD79.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD79'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD80.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD80'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD81.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD81'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD82.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD82'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD83.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD83'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD84.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD84'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD85.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD85'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD86.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD86'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD87.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD87'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD88.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD88'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD89.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD89'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD90.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD90'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD91.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD91'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD92.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD92'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD93.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD93'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD94.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD94'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD95.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD95'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD96.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD96'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD97.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD97'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD98.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD98'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD99.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD99'
+mkdir: cannot create directory `xv1': File exists
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD20.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD20'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD21.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD21'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD22.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD22'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD23.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD23'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD24.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD24'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD25.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD25'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD26.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD26'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD27.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD27'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD28.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD28'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD29.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD29'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD30.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD30'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD31.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD31'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD32.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD32'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD33.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD33'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD34.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD34'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD35.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD35'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD36.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD36'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD37.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD37'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD38.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD38'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD39.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD39'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD40.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD40'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD41.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD41'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD42.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD42'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD43.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD43'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD44.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD44'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD45.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD45'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD46.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD46'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD47.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD47'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD48.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD48'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD49.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD49'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD50.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD50'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD51.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD51'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD52.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD52'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD53.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD53'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD54.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD54'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD55.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD55'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD56.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD56'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD57.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD57'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD58.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD58'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD59.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD59'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD60.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD60'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD61.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD61'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD62.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD62'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD63.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD63'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD64.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD64'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD65.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD65'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD66.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD66'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD67.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD67'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD68.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD68'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD69.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD69'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD70.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD70'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD71.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD71'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD72.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD72'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD73.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD73'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD74.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD74'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD75.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD75'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD76.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD76'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD77.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD77'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD78.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD78'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD79.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD79'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD80.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD80'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD81.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD81'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD82.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD82'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD83.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD83'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD84.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD84'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD85.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD85'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD86.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD86'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD87.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD87'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD88.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD88'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD89.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD89'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD90.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD90'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD91.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD91'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD92.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD92'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD93.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD93'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD94.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD94'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD95.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD95'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD96.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD96'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD97.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD97'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD98.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD98'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/MyScripts/savepos.py", line 31, in <module>
+    with open(inp, 'r') as r:
+IOError: [Errno 2] No such file or directory: 'trajectoryMD99.dat'
+Traceback (most recent call last):
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 102, in <module>
+    getBonds()
+  File "/project/RDS-FSC-DNAlienDynamics-RW/DNAnano/oxDNA/UTILS/getBonds.py", line 30, in getBonds
+    fin = open(inputfile)
+IOError: [Errno 2] No such file or directory: 'inputMD99'
+mkdir: cannot create directory `xv1': File exists
